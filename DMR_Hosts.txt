@@ -1,1 +1,44 @@
-test
+#	DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#	Origional idea from Adrian Craig (M0GLJ), Editted by YC5NCB/JZ04MIB
+#
+#	Updated 19-Jul-2022
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. NO SPACES!!
+#
+#	Downloaded from http://www.pistar.uk/downloads/DMR_Hosts.txt
+#
+######################################################################################################
+#
+#				DMRGateway / Internal Hosts Below
+#
+######################################################################################################
+# Name				DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+DMRGateway			0000	127.0.0.1				none		62031
+DMR2YSF				0000	127.0.0.2				none		62033
+DMR2NXDN			0000	127.0.0.3				none		62035
+######################################################################################################
+#
+#				BrandMeister Hosts Below
+#
+######################################################################################################
+# Country			DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
+######################################################################################################
+#
+#				HBLink/KRAP INDONESIA AT Hosts Below
+#
+######################################################################################################
+# Name				DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+HB_LANGKAT  0000  101.50.0.209  langkat1  62031
+HB_KRAP_DMR 0000  103.174.114.231 passw0rd  62030
+HB_KRAP_BACKUP	0000  103.187.147.208	passw0rd  62030
+######################################################################################################
+
+
