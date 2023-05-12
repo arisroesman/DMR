@@ -1,7 +1,7 @@
 #	DMR_Hosts.txt
 #
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
-#	Origional idea from Adrian Craig (M0GLJ), Editted by YC5NCB/JZ04MIB
+#	Origional idea from Adrian Craig (M0GLJ), Editted by YD1RIA/JZ30BPH
 #
 #	Updated 19-Jul-2022
 #
@@ -31,13 +31,13 @@ BM_5021_Malaysia		5021    5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051    5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 #
-#				HBLink/KRAP INDONESIA AT Hosts Below
+#				HBLink/KRAP ORARI INDONESIA AT Hosts Below
 #
 ######################################################################################################
-# Name				DMR-ID	IP/Hostname				Password	Port #
+# Name				DMR-ID	IP/Hostname				Password  Port #
 ######################################################################################################
-ORARI_RAPI    0000    101.50.0.209      langkat1  62031
+MULTI_LGKT    0000    101.50.0.209      langkat1  62031
 KRAP_DMR      0000    103.174.114.231   passw0rd  62030
-KRAP_DMR_II   0000    103.187.147.208   passw0rd  62030
 HB_PALALAWAN  0000    156.67.217.55     plw510    62030
+KRAP_DMR_II   0000    103.187.147.208   passw0rd  62030
 ######################################################################################################
