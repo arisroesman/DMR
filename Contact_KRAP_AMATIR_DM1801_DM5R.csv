@@ -1,338 +1,338 @@
 Number,Name,Call ID,Type,Ring Style,Call Receive Tone,Repeater Slot override
 0,KRAP DMR,5155,Group Call,On,None,2
 1,AMATIR DMR,510,Group Call,On,None,1
-2,JZ10EGG GILANG G,280001,Private Call,On,None,None
-3,JZ10LLB HADIYANT,280002,Private Call,On,None,None
+2,JZ10EGG GILANG,280001,Private Call,On,None,None
+3,JZ10LLB HADI,280002,Private Call,On,None,None
 4,JZ13AIV SARJONO,280003,Private Call,On,None,None
 5,JZ13NBM SUHARTO,280004,Private Call,On,None,None
-6,JZ13AGU FIRMAN H,280005,Private Call,On,None,None
+6,JZ13AGU FIRMAN,280005,Private Call,On,None,None
 7,JZ09AGV AMIRRUL ,280006,Private Call,On,None,None
-8,JZ02EAB ALI AKBA,280007,Private Call,On,None,None
-9,JZ14AYH REDDIYAN,280008,Private Call,On,None,None
+8,JZ02EAB ALI,280007,Private Call,On,None,None
+9,JZ14AYH REDDI,280008,Private Call,On,None,None
 10,JZ02EMY DHANYAR ,280009,Private Call,On,None,None
 11,JZ10ISO ANWARI,280010,Private Call,On,None,None
 12,JZ10HZR PURNAMA,280011,Private Call,On,None,None
-13,JZ10GBZ IWAN HER,280012,Private Call,On,None,None
-14,JZ15BWL ALU BALY,280013,Private Call,On,None,None
+13,JZ10GBZ IWAN,280012,Private Call,On,None,None
+14,JZ15BWL BALYA,280013,Private Call,On,None,None
 15,JZ30TOA OKTALIO ,280014,Private Call,On,None,None
-16,JZ13FCH SUBHAN F,280015,Private Call,On,None,None
-17,JZ02AJF ABU SOFY,280016,Private Call,On,None,None
-18,JZ29BDT M POWER,280017,Private Call,On,None,None
-19,JZ13BKQ BETANTYO,280018,Private Call,On,None,None
+16,JZ13FCH SUBHAN,280015,Private Call,On,None,None
+17,JZ02AJF SOFYAN,280016,Private Call,On,None,None
+18,JZ29BDT POWER,280017,Private Call,On,None,None
+19,JZ13BKQ BETA,280018,Private Call,On,None,None
 20,JZ29ACX TRI BUDI,280019,Private Call,On,None,None
 21,JZ09AGG FERDINAN,280020,Private Call,On,None,None
-22,JZ10ARU AYODYA H,280021,Private Call,On,None,None
-23,JZ10DSC A RAHMAN,280022,Private Call,On,None,None
+22,JZ10ARU AYODYA,280021,Private Call,On,None,None
+23,JZ10DSC RAHMAN,280022,Private Call,On,None,None
 24,JZ11AAA MUGIONO,280023,Private Call,On,None,None
-25,JZ01COZ HASNUL Z,280024,Private Call,On,None,None
+25,JZ01COZ HASNUL,280024,Private Call,On,None,None
 26,JZ12AXC ANGGORO,280025,Private Call,On,None,None
-27,JZ10HJA UDIN ASR,280026,Private Call,On,None,None
-28,JZ09AM WAGUS PA,280027,Private Call,On,None,None
-29,JZ29AP ATOK PRA,280028,Private Call,On,None,None
-30,JZ11LXJ TM FATA,280029,Private Call,On,None,None
-31,JZ09RAH A SYAFEI,280030,Private Call,On,None,None
+27,JZ10HJA UDIN,280026,Private Call,On,None,None
+28,JZ09AM WAGUS,280027,Private Call,On,None,None
+29,JZ29AP ATOK,280028,Private Call,On,None,None
+30,JZ11LXJ FATA,280029,Private Call,On,None,None
+31,JZ09RAH SYAFEI,280030,Private Call,On,None,None
 32,JZ13CKB PAGIANA,280031,Private Call,On,None,None
-33,JZ29AAK FIRST NJ,280032,Private Call,On,None,None
-34,JZ10FAF RUDY S ,280033,Private Call,On,None,None
+33,JZ29AAK FIRST,280032,Private Call,On,None,None
+34,JZ10FAF RUDY,280033,Private Call,On,None,None
 35,JZ09AST RIZANI,280034,Private Call,On,None,None
-36,JZ09ACI NICO PRA,280035,Private Call,On,None,None
+36,JZ09ACI NICO,280035,Private Call,On,None,None
 37,JZ29BSS UKATELIN,280036,Private Call,On,None,None
-38,JZ29BZY M SHOLEH,280037,Private Call,On,None,None
-39,JZ29JHJ OS HENDR,280038,Private Call,On,None,None
-40,JZ29DUS IMAN LAT,280039,Private Call,On,None,None
+38,JZ29BZY SHOLEH,280037,Private Call,On,None,None
+39,JZ29JHJ HENDRA,280038,Private Call,On,None,None
+40,JZ29DUS IMAN,280039,Private Call,On,None,None
 41,JZ15SW SUHARTO,280040,Private Call,On,None,None
-42,JZ15DAZ A FATONI,280041,Private Call,On,None,None
-43,JZ15AEG EDY SUPR,280042,Private Call,On,None,None
+42,JZ15DAZ FATONI,280041,Private Call,On,None,None
+43,JZ15AEG EDY,280042,Private Call,On,None,None
 44,JZ09NEL SURENDRO,280043,Private Call,On,None,None
-45,JZ15DLY M. YUSUF,280044,Private Call,On,None,None
-46,JZ15DPK A PADLI,280045,Private Call,On,None,None
+45,JZ15DLY YUSUF,280044,Private Call,On,None,None
+46,JZ15DPK PADLI,280045,Private Call,On,None,None
 47,JZ15DLE SAIDI,280046,Private Call,On,None,None
-48,JZ15DSL S FARIZ,280047,Private Call,On,None,None
+48,JZ15DSL FARIZ,280047,Private Call,On,None,None
 49,JZ15DPD SAEFUDIN,280048,Private Call,On,None,None
 50,JZ29SZA SUMARNO,280049,Private Call,On,None,None
-51,JZ13HAI R SADAM,280050,Private Call,On,None,None
+51,JZ13HAI SADAM,280050,Private Call,On,None,None
 52,JZ29AIK IFMAWAN ,280051,Private Call,On,None,None
-53,JZ29BSY T SUBAY,280052,Private Call,On,None,None
-54,JZ29CHA C TETHOL,280053,Private Call,On,None,None
-55,JZ29AFQ AFRIANSY,280054,Private Call,On,None,None
-56,JZ30BHZ KEVIN SU,280055,Private Call,On,None,None
-57,JZ29BZS SONY W,280056,Private Call,On,None,None
+53,JZ29BSY SUBAY,280052,Private Call,On,None,None
+54,JZ29CHA TETHOL,280053,Private Call,On,None,None
+55,JZ29AFQ AFRIAN,280054,Private Call,On,None,None
+56,JZ30BHZ KEVIN,280055,Private Call,On,None,None
+57,JZ29BZS SONY,280056,Private Call,On,None,None
 58,JZ11BTS PARSONO,280057,Private Call,On,None,None
-59,JZ10EKS ASEP SAM,280058,Private Call,On,None,None
-60,JZ10EDV ANDI RAH,280059,Private Call,On,None,None
-61,JZ29BOR RAMLAN A,280060,Private Call,On,None,None
+59,JZ10EKS ASEP,280058,Private Call,On,None,None
+60,JZ10EDV ANDI,280059,Private Call,On,None,None
+61,JZ29BOR RAMLAN,280060,Private Call,On,None,None
 62,JZ04MGW GUSWERI,280061,Private Call,On,None,None
-63,JZ10EEB JAPAR S,280062,Private Call,On,None,None
-64,JZ10EML AGUS NUG,280063,Private Call,On,None,None
-65,JZ29VE VICTOR E,280064,Private Call,On,None,None
-66,JZ10HBC ASEP SDL,280065,Private Call,On,None,None
-67,JZ12AVO EKO SUS,280066,Private Call,On,None,None
-68,JZ13DPX NAUFAL H,280067,Private Call,On,None,None
+63,JZ10EEB JAPAR,280062,Private Call,On,None,None
+64,JZ10EML AGUS,280063,Private Call,On,None,None
+65,JZ29VE VICTOR,280064,Private Call,On,None,None
+66,JZ10HBC ASEP,280065,Private Call,On,None,None
+67,JZ12AVO EKO,280066,Private Call,On,None,None
+68,JZ13DPX NAUFAL,280067,Private Call,On,None,None
 69,JZ13BNY ZAINURI,280068,Private Call,On,None,None
 70,JZ10ESH MARIYANT,280069,Private Call,On,None,None
-71,JZ11WEZ A DHOHRI,280070,Private Call,On,None,None
-72,JZ29SZE FAJRI R,280071,Private Call,On,None,None
+71,JZ11WEZ DHOHRI,280070,Private Call,On,None,None
+72,JZ29SZE FAJRI,280071,Private Call,On,None,None
 73,JZ29AFP MAULANA ,280072,Private Call,On,None,None
-74,JZ18ACK SUTAN PL,280073,Private Call,On,None,None
+74,JZ18ACK SUTAN,280073,Private Call,On,None,None
 75,JZ10EEI GUNAWAN,280074,Private Call,On,None,None
-76,JZ04AHU JOHAN G,280075,Private Call,On,None,None
-77,JZ13AZL SUPRIYAD,280076,Private Call,On,None,None
-78,JZ12ANT YUDHA BR,280077,Private Call,On,None,None
+76,JZ04AHU JOHAN,280075,Private Call,On,None,None
+77,JZ13AZL SUPRIY,280076,Private Call,On,None,None
+78,JZ12ANT YUDHA,280077,Private Call,On,None,None
 79,JZ29SAS WIKARSA ,280078,Private Call,On,None,None
 80,JZ04FNE ADMIRAL,280079,Private Call,On,None,None
 81,JZ04MIB MIDJAYA,280080,Private Call,On,None,None
 82,JZ13CUZ PRASETYO,280081,Private Call,On,None,None
 83,Z04NTO HIMANTO,280082,Private Call,On,None,None
-84,JZ02TGK ANDI S H,280083,Private Call,On,None,None
+84,JZ02TGK ANDI,280083,Private Call,On,None,None
 85,JZ04EAV ASIR,280084,Private Call,On,None,None
-86,JZ04AKR RIMON  U,280085,Private Call,On,None,None
-87,JZ09LNA IMAM DJA,280086,Private Call,On,None,None
+86,JZ04AKR RIMON,280085,Private Call,On,None,None
+87,JZ09LNA IMAM,280086,Private Call,On,None,None
 88,JZ04MZH HERIANDI,280087,Private Call,On,None,None
 89,JZ29TAN FREDRIK ,280088,Private Call,On,None,None
-90,JZ29ER ILYAS R,280089,Private Call,On,None,None
+90,JZ29ER ILYAS,280089,Private Call,On,None,None
 91,JZ04ARO HARYANTO,280090,Private Call,On,None,None
-92,JZ04MAK SUSIYANT,280091,Private Call,On,None,None
+92,JZ04MAK SUSIYANTO,280091,Private Call,On,None,None
 93,JZ04MGF SYAMSUL ,280092,Private Call,On,None,None
-94,JZ04MAG B WIJAYA ,280093,Private Call,On,None,None
+94,JZ04MAG WIJAYA ,280093,Private Call,On,None,None
 95,JZ02TUU AKHIRMA ,280094,Private Call,On,None,None
-96,JZ09HIA EKO BUDH,280095,Private Call,On,None,None
+96,JZ09HIA EKO,280095,Private Call,On,None,None
 97,JZ04FPI SELAMAT ,280096,Private Call,On,None,None
-98,JZ04FRT RIO ARWA,280097,Private Call,On,None,None
+98,JZ04FRT RIO,280097,Private Call,On,None,None
 99,JZ23DYP PANDIBU,280098,Private Call,On,None,None
-100,JZ23DYV F IDRIS,280099,Private Call,On,None,None
-101,JZ23GIO JERRY KP,280100,Private Call,On,None,None
+100,JZ23DYV IDRIS,280099,Private Call,On,None,None
+101,JZ23GIO JERRY,280100,Private Call,On,None,None
 102,JZ04MEN HENDRI,280101,Private Call,On,None,None
-103,JZ04MPG DELVI S,280102,Private Call,On,None,None
-104,JZ04MAT A HARAHAP,280103,Private Call,On,None,None
+103,JZ04MPG DELVI,280102,Private Call,On,None,None
+104,JZ04MAT HARAHAP,280103,Private Call,On,None,None
 105,JZ04MAB SUTRISNO,280104,Private Call,On,None,None
-106,JZ13AGL HENDRO K,280105,Private Call,On,None,None
-107,JZ02ERT RINTO ST,280106,Private Call,On,None,None
-108,JZ29AZU EDI SANT,280107,Private Call,On,None,None
+106,JZ13AGL HENDRO,280105,Private Call,On,None,None
+107,JZ02ERT RINTO,280106,Private Call,On,None,None
+108,JZ29AZU EDI,280107,Private Call,On,None,None
 109,JZ04MZZ MAROJAHA,280108,Private Call,On,None,None
-110,JZ04MTS TRI SAKT,280109,Private Call,On,None,None
+110,JZ04MTS TRI SAKTI,280109,Private Call,On,None,None
 111,JZ04MSD SUWARDI,280110,Private Call,On,None,None
-112,JZ04AIM REZA FAH,280111,Private Call,On,None,None
-113,JZ04MKZ WEMPI K,280112,Private Call,On,None,None
-114,JZ13BIX MH YAMIN,280113,Private Call,On,None,None
-115,JZ04AGD M JAMAL,280114,Private Call,On,None,None
+112,JZ04AIM REZA,280111,Private Call,On,None,None
+113,JZ04MKZ WEMPI,280112,Private Call,On,None,None
+114,JZ13BIX YAMIN,280113,Private Call,On,None,None
+115,JZ04AGD JAMAL,280114,Private Call,On,None,None
 116,JZ04AHN ABU UBAI,280115,Private Call,On,None,None
-117,JZ04ANS M ROIS,280116,Private Call,On,None,None
+117,JZ04ANS ROIS,280116,Private Call,On,None,None
 118,JZ04BCA SULAIMAN,280117,Private Call,On,None,None
-119,JZ04BCC ADI FIRD,280118,Private Call,On,None,None
+119,JZ04BCC ADI,280118,Private Call,On,None,None
 120,JZ04BCD SYAFRIZA,280119,Private Call,On,None,None
-121,JZ04BDA EFRI S,280120,Private Call,On,None,None
-122,JZ04BDR FIKTOR S,280121,Private Call,On,None,None
-123,JZ04BEC M ANDRE ,280122,Private Call,On,None,None
+121,JZ04BDA EFRI,280120,Private Call,On,None,None
+122,JZ04BDR FIKTOR,280121,Private Call,On,None,None
+123,JZ04BEC ANDRE ,280122,Private Call,On,None,None
 124,JZ04BFB KHURFIAN,280123,Private Call,On,None,None
 125,JZ04MAC KARDINAL,280124,Private Call,On,None,None
 126,JZ04MAE SUTRISNO,280125,Private Call,On,None,None
-127,JZ04MAF EDI SURY,280126,Private Call,On,None,None
-128,JZ04MAH AMINUDDI,280127,Private Call,On,None,None
+127,JZ04MAF EDI,280126,Private Call,On,None,None
+128,JZ04MAH AMIN,280127,Private Call,On,None,None
 129,JZ04MAJ TRI ROMA,280128,Private Call,On,None,None
-130,JZ04MAL ZAIMAN Z,280129,Private Call,On,None,None
+130,JZ04MAL ZAIMAN,280129,Private Call,On,None,None
 131,JZ04MAO ARSYAD,280130,Private Call,On,None,None
-132,JZ04MAP M SANUSI,280131,Private Call,On,None,None
-133,JZ04MAQ BOEDI ST,280132,Private Call,On,None,None
-134,JZ04MAR AFR RIFI,280133,Private Call,On,None,None
-135,JZ04MAS IZAN HD,280134,Private Call,On,None,None
+132,JZ04MAP SANUSI,280131,Private Call,On,None,None
+133,JZ04MAQ BOEDI,280132,Private Call,On,None,None
+134,JZ04MAR RIFI,280133,Private Call,On,None,None
+135,JZ04MAS IZAN,280134,Private Call,On,None,None
 136,JZ04MAU DEFRIADI,280135,Private Call,On,None,None
-137,JZ04MAW AW MALIK,280136,Private Call,On,None,None
-138,JZ04MBA AGUS STY,280137,Private Call,On,None,None
+137,JZ04MAW MALIK,280136,Private Call,On,None,None
+138,JZ04MBA AGUS,280137,Private Call,On,None,None
 139,JZ04MBL JULIASMA,280138,Private Call,On,None,None
 140,JZ04MBM ZULFAN,280139,Private Call,On,None,None
 141,JZ04MBY BUSTAMIR,280140,Private Call,On,None,None
 142,JZ04MCA CHAIRUL ,280141,Private Call,On,None,None
-143,JZ04MCB CUNCUN W,280142,Private Call,On,None,None
-144,JZ04MCD WAHID K,280143,Private Call,On,None,None
-145,JZ04MCT JAMALUDD,280144,Private Call,On,None,None
+143,JZ04MCB CUNCUN,280142,Private Call,On,None,None
+144,JZ04MCD WAHID,280143,Private Call,On,None,None
+145,JZ04MCT JAMAL,280144,Private Call,On,None,None
 146,JZ04MCW WANTO,280145,Private Call,On,None,None
 147,JZ04MDK SARBAINI,280146,Private Call,On,None,None
-148,JZ04MDT BOYRI W,280147,Private Call,On,None,None
+148,JZ04MDT BOYRI,280147,Private Call,On,None,None
 149,JZ04MEC BACHRON,280148,Private Call,On,None,None
-150,JZ04MES EDY SURY,280149,Private Call,On,None,None
+150,JZ04MES EDY S,280149,Private Call,On,None,None
 151,JZ04MEU JUNIARTI,280150,Private Call,On,None,None
 152,JZ04MZA HENDRI,280151,Private Call,On,None,None
 153,JZ04MGX LIKMAN,280152,Private Call,On,None,None
 154,JZ04MHP ERFANDI,280153,Private Call,On,None,None
-155,JZ04MHS HERI SUS,280154,Private Call,On,None,None
+155,JZ04MHS HERI,280154,Private Call,On,None,None
 156,JZ04MIW EFFENDI ,280155,Private Call,On,None,None
 157,JZ04MJB ANTON,280156,Private Call,On,None,None
-158,JZ04MJH JASMI H,280157,Private Call,On,None,None
-159,JZ04MKK KAMARUDN,280158,Private Call,On,None,None
-160,JZ04MLE INDRA IS,280159,Private Call,On,None,None
-161,JZ04MNH NUNIK H,280160,Private Call,On,None,None
-162,JZ04MNS IKHWANUL,280161,Private Call,On,None,None
-163,JZ04MON SUPRAMON,280162,Private Call,On,None,None
+158,JZ04MJH JASMI,280157,Private Call,On,None,None
+159,JZ04MKK KAMARU,280158,Private Call,On,None,None
+160,JZ04MLE INDRA,280159,Private Call,On,None,None
+161,JZ04MNH NUNIK,280160,Private Call,On,None,None
+162,JZ04MNS IKHWAN,280161,Private Call,On,None,None
+163,JZ04MON PRAMONO,280162,Private Call,On,None,None
 164,JZ04MPO ALILUDIN,280163,Private Call,On,None,None
-165,JZ04MQB SYAFEI J,280164,Private Call,On,None,None
+165,JZ04MQB SYAFEI,280164,Private Call,On,None,None
 166,JZ04MQS IRNA,280165,Private Call,On,None,None
 167,JZ04MRB NASIB,280166,Private Call,On,None,None
 168,JZ04MRG ERMAN,280167,Private Call,On,None,None
-169,JZ04MRJ HENDRA S,280168,Private Call,On,None,None
+169,JZ04MRJ HENDRA,280168,Private Call,On,None,None
 170,JZ04MRN RUSANI,280169,Private Call,On,None,None
 171,JZ04MRO REDIANTO,280170,Private Call,On,None,None
-172,JZ04MRP RUDI PRA,280171,Private Call,On,None,None
-173,JZ04MRV RIVA ORD,280172,Private Call,On,None,None
-174,JZ04MSB SAMSUL B,280173,Private Call,On,None,None
+172,JZ04MRP RUDI,280171,Private Call,On,None,None
+173,JZ04MRV RIVA,280172,Private Call,On,None,None
+174,JZ04MSB SAMSUL,280173,Private Call,On,None,None
 175,JZ04MSR SYAHRUL,280174,Private Call,On,None,None
 176,JZ04MVL IBRAHIM,280175,Private Call,On,None,None
 177,JZ04MYD OKTAVIA ,280176,Private Call,On,None,None
-178,JZ04MYS YUSRI W,280177,Private Call,On,None,None
+178,JZ04MYS YUSRI,280177,Private Call,On,None,None
 179,JZ04AIO SUMARDI,280178,Private Call,On,None,None
-180,JZ04FZZ RAHMAD R,280179,Private Call,On,None,None
+180,JZ04FZZ RAHMAD,280179,Private Call,On,None,None
 181,JZ02IOW ANDHIKA ,280180,Private Call,On,None,None
-182,JZ02IBM ABDUL AF,280181,Private Call,On,None,None
+182,JZ02IBM ABDUL,280181,Private Call,On,None,None
 183,JZ02IBP JUMIRIN,280182,Private Call,On,None,None
-184,JZ02IBW HARIS N,280183,Private Call,On,None,None
+184,JZ02IBW HARIS,280183,Private Call,On,None,None
 185,JZ02IBY SUPARLAN,280184,Private Call,On,None,None
-186,JZ02IDP SARIFUDD,280185,Private Call,On,None,None
+186,JZ02IDP SARIF,280185,Private Call,On,None,None
 187,JZ02IDY NGATEMIN,280186,Private Call,On,None,None
 188,JZ12ACN ANTHONI ,280187,Private Call,On,None,None
-189,JZ29BCC JHONAL T,280188,Private Call,On,None,None
-190,JZ10IBM EKA WIJA,280189,Private Call,On,None,None
+189,JZ29BCC JHONAL,280188,Private Call,On,None,None
+190,JZ10IBM EKA,280189,Private Call,On,None,None
 191,JZ10IAH MULIAWAN,280190,Private Call,On,None,None
 192,JZ02HFP YUSTINUS,280191,Private Call,On,None,None
-193,JZ05ENL ZAINAL A,280192,Private Call,On,None,None
-194,JZ13AHI DONNY ND,280193,Private Call,On,None,None
+193,JZ05ENL ZAINAL,280192,Private Call,On,None,None
+194,JZ13AHI DONNY,280193,Private Call,On,None,None
 195,JZ10HPC HENDRIK ,280194,Private Call,On,None,None
 196,JZ27WTC ZAENURI,280195,Private Call,On,None,None
 197,JZ05EGN GUNANTO,280196,Private Call,On,None,None
-198,JZ10BYI YUDI IRA,280197,Private Call,On,None,None
-199,JZ10BTC RADDY IR,280198,Private Call,On,None,None
+198,JZ10BYI YUDI,280197,Private Call,On,None,None
+199,JZ10BTC RADDY,280198,Private Call,On,None,None
 200,JZ13XSQ MACHMUD,280199,Private Call,On,None,None
 201,JZ27AMT SUDIARSO,280200,Private Call,On,None,None
-202,JZ10BLE KOMARA A,280201,Private Call,On,None,None
-203,JZ31BAA HOLIL AZ,280202,Private Call,On,None,None
+202,JZ10BLE KOMARA,280201,Private Call,On,None,None
+203,JZ31BAA HOLIL,280202,Private Call,On,None,None
 204,JZ09ATT MICHAEL,280203,Private Call,On,None,None
-205,JZ02BDO HENDRAWA,280204,Private Call,On,None,None
-206,JZ02UAC ASWAHI W,280205,Private Call,On,None,None
-207,JZ15DZS RIKO ANT,280206,Private Call,On,None,None
+205,JZ02BDO HENDRA,280204,Private Call,On,None,None
+206,JZ02UAC ASWAHI,280205,Private Call,On,None,None
+207,JZ15DZS RIKO,280206,Private Call,On,None,None
 208,JZ27AGQ TUMAKUN ,280207,Private Call,On,None,None
-209,JZ04ASX AMIR SUB,280208,Private Call,On,None,None
-210,JZ04ADC SUHARYON,280209,Private Call,On,None,None
-211,JZ10LACR M RIZKY,280210,Private Call,On,None,None
+209,JZ04ASX AMIR,280208,Private Call,On,None,None
+210,JZ04ADC HARYONO,280209,Private Call,On,None,None
+211,JZ10LACR RIZKY,280210,Private Call,On,None,None
 212,JZ13QRK HARYADI,280211,Private Call,On,None,None
-213,JZ05EZO SADI SAP,280212,Private Call,On,None,None
-214,JZ13DPL ISNANTOR,280213,Private Call,On,None,None
-215,JZ10LFG GIRI PUR,280214,Private Call,On,None,None
-216,JZ04FBN BUYUNG I,280215,Private Call,On,None,None
-217,J10FXM YUSUP SO,280216,Private Call,On,None,None
-218,JZ04BCF JM JHONI,280217,Private Call,On,None,None
+213,JZ05EZO SADI,280212,Private Call,On,None,None
+214,JZ13DPL ISNANTO,280213,Private Call,On,None,None
+215,JZ10LFG GIRI,280214,Private Call,On,None,None
+216,JZ04FBN BUYUNG,280215,Private Call,On,None,None
+217,J10FXM YUSUP,280216,Private Call,On,None,None
+218,JZ04BCF JHONI,280217,Private Call,On,None,None
 219,JZ02MPT ALUIBUDI,280218,Private Call,On,None,None
-220,JZ28HDX M GADRI,280219,Private Call,On,None,None
-221,JZ10BDH DINDIN H,280220,Private Call,On,None,None
-222,JZ23EB BUDIHART,280221,Private Call,On,None,None
+220,JZ28HDX GADRI,280219,Private Call,On,None,None
+221,JZ10BDH DINDIN,280220,Private Call,On,None,None
+222,JZ23EB BUDI,280221,Private Call,On,None,None
 223,JZ32UTS SUCIPTO ,280222,Private Call,On,None,None
-224,JZ12APL AGUNG PP,280223,Private Call,On,None,None
+224,JZ12APL AGUNG,280223,Private Call,On,None,None
 225,JZ09BIV GUNAWAN ,280224,Private Call,On,None,None
 226,JZ09LYV YUDHIST,280225,Private Call,On,None,None
-227,JZ05AJO EKO WAHY,280226,Private Call,On,None,None
-228,JZ12BFW STARKY A,280227,Private Call,On,None,None
+227,JZ05AJO EKO W,280226,Private Call,On,None,None
+228,JZ12BFW STARKY,280227,Private Call,On,None,None
 229,JZ04AFM MURNIATI,280228,Private Call,On,None,None
-230,JZ21BRG ROI GHOF,280229,Private Call,On,None,None
+230,JZ21BRG ROI,280229,Private Call,On,None,None
 231,JZ10PCP ANDHIKA ,280230,Private Call,On,None,None
 232,JZ02GAC SERGIUS ,280231,Private Call,On,None,None
-233,JZ02HOT ELINUS W,280232,Private Call,On,None,None
+233,JZ02HOT ELINUS,280232,Private Call,On,None,None
 234,JZ02GHO ANTONIUS,280233,Private Call,On,None,None
-235,JZ02HAP ALIMUDDI,280234,Private Call,On,None,None
-236,JZ09ALQ ADITYO W,280235,Private Call,On,None,None
-237,JZ13VHU UTOMO SD,280236,Private Call,On,None,None
-238,JZ13AWB M. RUDI,280237,Private Call,On,None,None
+235,JZ02HAP ALIM,280234,Private Call,On,None,None
+236,JZ09ALQ ADITYO,280235,Private Call,On,None,None
+237,JZ13VHU UTOMO,280236,Private Call,On,None,None
+238,JZ13AWB RUDI,280237,Private Call,On,None,None
 239,JZ29AA SUTOWO,280238,Private Call,On,None,None
-240,JZ05ABJ TAUFIK W,280239,Private Call,On,None,None
-241,JZ10EKD ANGGRIYA,280240,Private Call,On,None,None
-242,JZ04ACE DAVIDCY,280241,Private Call,On,None,None
+240,JZ05ABJ TAUFIK,280239,Private Call,On,None,None
+241,JZ10EKD ANGGRI,280240,Private Call,On,None,None
+242,JZ04ACE DAVID,280241,Private Call,On,None,None
 243,JZ05AHK BUDIMAN,280242,Private Call,On,None,None
-244,JZ13EZE AB LATIF,280243,Private Call,On,None,None
-245,JZ09AQW I WAYAN ,280244,Private Call,On,None,None
-246,JZ13YII HADI MUL,280245,Private Call,On,None,None
-247,JZ19RV M. RAVI ,280246,Private Call,On,None,None
-248,JZ12AZA ILHAM JO,280247,Private Call,On,None,None
-249,JZ11REV MSYARIFU,280248,Private Call,On,None,None
-250,JZ30TPF DODI HRY,280249,Private Call,On,None,None
-251,JZ10AWF SUGENG H,280250,Private Call,On,None,None
-252,JZ10BNX ASEP AGS,280251,Private Call,On,None,None
-253,JZ09LVN RIFQI AP,280252,Private Call,On,None,None
-254,JZ02HRS RIDUAN S,280253,Private Call,On,None,None
-255,JZ10MAAG ANDI RAH,280254,Private Call,On,None,None
-256,JZ10MACP ACEP SHD,280255,Private Call,On,None,None
-257,JZ24AKQ YURI AGU,280256,Private Call,On,None,None
+244,JZ13EZE LATIF,280243,Private Call,On,None,None
+245,JZ09AQW WAYAN ,280244,Private Call,On,None,None
+246,JZ13YII HADI,280245,Private Call,On,None,None
+247,JZ19RV RAVI ,280246,Private Call,On,None,None
+248,JZ12AZA ILHAM,280247,Private Call,On,None,None
+249,JZ11REV SYARIF,280248,Private Call,On,None,None
+250,JZ30TPF DODI,280249,Private Call,On,None,None
+251,JZ10AWF SUGENG,280250,Private Call,On,None,None
+252,JZ10BNX ASEP,280251,Private Call,On,None,None
+253,JZ09LVN RIFQI,280252,Private Call,On,None,None
+254,JZ02HRS RIDUAN,280253,Private Call,On,None,None
+255,JZ10MAAG ANDI,280254,Private Call,On,None,None
+256,JZ10MACP ACEP,280255,Private Call,On,None,None
+257,JZ24AKQ YURI,280256,Private Call,On,None,None
 258,JZ24AMY YURIADI,280257,Private Call,On,None,None
-259,JZ09EIC DAMAUS R,280258,Private Call,On,None,None
+259,JZ09EIC DAMAUS,280258,Private Call,On,None,None
 260,JZ09ADW HUBERTUS,280259,Private Call,On,None,None
-261,JZ10XPI YUDHA ID,280260,Private Call,On,None,None
-262,JZ01BHW ARI GERU,280261,Private Call,On,None,None
+261,JZ10XPI YUDHA,280260,Private Call,On,None,None
+262,JZ01BHW GERUNG,280261,Private Call,On,None,None
 263,JZ01CSG SYAIFUL ,280262,Private Call,On,None,None
-264,JZ15ANN RAHMA IS,280263,Private Call,On,None,None
+264,JZ15ANN RAHMA,280263,Private Call,On,None,None
 265,JZ11FBS BACHTIAR,280264,Private Call,On,None,None
-266,JZ02ATZ BENNY YP,280265,Private Call,On,None,None
-267,JZ02AYJ IRWANSYA,280266,Private Call,On,None,None
-268,JZ08BSE DWORO UD,280267,Private Call,On,None,None
-269,JZ09AUO M SATRIA,280268,Private Call,On,None,None
+266,JZ02ATZ BENNY,280265,Private Call,On,None,None
+267,JZ02AYJ IRWAN,280266,Private Call,On,None,None
+268,JZ08BSE DWORO,280267,Private Call,On,None,None
+269,JZ09AUO SATRIA,280268,Private Call,On,None,None
 270,JZ11BSL BAMBANG ,280269,Private Call,On,None,None
 271,JZ04ERM ROMI,280270,Private Call,On,None,None
-272,JZ10DTN ZALDY RA,280271,Private Call,On,None,None
-273,JZ13DNL EKO NOPI,280272,Private Call,On,None,None
-274,JZ13PJE YOYOK Y,280273,Private Call,On,None,None
+272,JZ10DTN ZALDY,280271,Private Call,On,None,None
+273,JZ13DNL EKO,280272,Private Call,On,None,None
+274,JZ13PJE YOYOK,280273,Private Call,On,None,None
 275,JZ15ACS AMANAH,280274,Private Call,On,None,None
-276,JZ13ATX HARYO S ,280275,Private Call,On,None,None
+276,JZ13ATX HARYO,280275,Private Call,On,None,None
 277,JZ04ASJ SATINO,280276,Private Call,On,None,None
-278,JZ04ESF SYAIFULL,280277,Private Call,On,None,None
-279,JZ09AZQ EKO WKS,280278,Private Call,On,None,None
-280,JZ09LRR IWAN SAN,280279,Private Call,On,None,None
-281,JZ30HMB ARINTOKO,280280,Private Call,On,None,None
-282,JZ01BCT FAISAL S,280281,Private Call,On,None,None
-283,JZ04ENO RINO EMR,280282,Private Call,On,None,None
+278,JZ04ESF SYAIFUL,280277,Private Call,On,None,None
+279,JZ09AZQ EKO,280278,Private Call,On,None,None
+280,JZ09LRR IWAN,280279,Private Call,On,None,None
+281,JZ30HMB ARINTO,280280,Private Call,On,None,None
+282,JZ01BCT FAISAL,280281,Private Call,On,None,None
+283,JZ04ENO RINO,280282,Private Call,On,None,None
 284,JZ30OCN ARIF ,280283,Private Call,On,None,None
 285,JZ04EZY SUPARNO,280284,Private Call,On,None,None
-286,JZ30BOQ RENDY BO,280285,Private Call,On,None,None
+286,JZ30BOQ RENDY,280285,Private Call,On,None,None
 287,JZ13FJD DARMAWAN,280286,Private Call,On,None,None
 288,JZ20DAE WAHYUDI ,280287,Private Call,On,None,None
-289,JZ30BIE DODI OKT,280288,Private Call,On,None,None
-290,JZ10FAMJ MUCHLIS ,280289,Private Call,On,None,None
-291,JZ10FEQ BUDI CAH,280290,Private Call,On,None,None
-292,JZ22AHG ERWIN IR,280291,Private Call,On,None,None
-293,JZ10EES TATAN KU,280292,Private Call,On,None,None
-294,JZ10ECN HADIAT R,280293,Private Call,On,None,None
+289,JZ30BIE DODI,280288,Private Call,On,None,None
+290,JZ10FAMJ MUCHLIS,280289,Private Call,On,None,None
+291,JZ10FEQ BUDI,280290,Private Call,On,None,None
+292,JZ22AHG ERWIN,280291,Private Call,On,None,None
+293,JZ10EES TATAN,280292,Private Call,On,None,None
+294,JZ10ECN HADIAT,280293,Private Call,On,None,None
 295,JZ30BIF SYAMSUL,280294,Private Call,On,None,None
-296,JZ02IBA HENDRO S,280295,Private Call,On,None,None
-297,JZ10IKA FX ARIF ,280296,Private Call,On,None,None
-298,JZ04BKE DENY AFR,280297,Private Call,On,None,None
-299,JZ10EZW AGUS YUL,280298,Private Call,On,None,None
-300,JZ32QZG WABDRIS ,280299,Private Call,On,None,None
-301,JZ04AJM ARIF ROH,280300,Private Call,On,None,None
-302,JZ09AWE RIZKA ST,280301,Private Call,On,None,None
-303,JZ30BNH ALLOYSIU,280302,Private Call,On,None,None
-304,JZ14ONK W SUARSA,280303,Private Call,On,None,None
+296,JZ02IBA HENDRO,280295,Private Call,On,None,None
+297,JZ10IKA FX ARIF,280296,Private Call,On,None,None
+298,JZ04BKE DENY,280297,Private Call,On,None,None
+299,JZ10EZW AGUS,280298,Private Call,On,None,None
+300,JZ32QZG WABDRIS,280299,Private Call,On,None,None
+301,JZ04AJM ARIF,280300,Private Call,On,None,None
+302,JZ09AWE RIZKA,280301,Private Call,On,None,None
+303,JZ30BNH ALLOY,280302,Private Call,On,None,None
+304,JZ14ONK SUARSA,280303,Private Call,On,None,None
 305,JZ02BFB KUSWANDI,280304,Private Call,On,None,None
-306,JZ13FGS ARIES SA,280305,Private Call,On,None,None
+306,JZ13FGS ARIES,280305,Private Call,On,None,None
 307,JZ02BUS NURDIN,280306,Private Call,On,None,None
-308,JZ30HT TONY SAN,280307,Private Call,On,None,None
-309,JZ13BJY MHABIBUR,280308,Private Call,On,None,None
-310,JZ07AHC SENDI N,280309,Private Call,On,None,None
-311,JZ30BPH ARIS R,280310,Private Call,On,None,None
-312,JZ14ABA I W PUJA,280311,Private Call,On,None,None
-313,JZ13CIQ HENDRA M,280312,Private Call,On,None,None
-314,JZ08KAF ANDI SBR,280313,Private Call,On,None,None
-315,JZ33BCE SUHENDY ,280314,Private Call,On,None,None
-316,JZ14BBR I P ADI,280315,Private Call,On,None,None
-317,JZ14WIR WIRA ADN,280316,Private Call,On,None,None
-318,JZ04AHY ERZAN SY,280317,Private Call,On,None,None
+308,JZ30HT TONY,280307,Private Call,On,None,None
+309,JZ13BJY HABIBUR,280308,Private Call,On,None,None
+310,JZ07AHC SENDI,280309,Private Call,On,None,None
+311,JZ30BPH ARIS,280310,Private Call,On,None,None
+312,JZ14ABA PUJA,280311,Private Call,On,None,None
+313,JZ13CIQ HENDRA,280312,Private Call,On,None,None
+314,JZ08KAF ANDI,280313,Private Call,On,None,None
+315,JZ33BCE SUHENDY,280314,Private Call,On,None,None
+316,JZ14BBR ADI,280315,Private Call,On,None,None
+317,JZ14WIR WIRA,280316,Private Call,On,None,None
+318,JZ04AHY ERZAN,280317,Private Call,On,None,None
 319,JZ10GADC BAMBANG,280318,Private Call,On,None,None
 320,JZ22AHJ REVIND,280319,Private Call,On,None,None
-321,YB0AZ Wisnu,5100001,Private Call,On,None,None
-322,YD0RFM Agus,5100002,Private Call,On,None,None
-323,YD2DVD Krisno,5100003,Private Call,On,None,None
-324,YG1ATR Agus,5100004,Private Call,On,None,None
-325,YC9XR Antoni,5100005,Private Call,On,None,None
-326,YB2WB Bagus,5100006,Private Call,On,None,None
-327,YC0SJA Matias,5100007,Private Call,On,None,None
-328,YD1FAH Giri,5100008,Private Call,On,None,None
-329,YD1FAH Giri,5100009,Private Call,On,None,None
-330,YD7JBA Miftah,5100010,Private Call,On,None,None
-331,YG9EYO Gde,5100011,Private Call,On,None,None
-332,YC0SPC Johan,5100012,Private Call,On,None,None
-333,YD5NGH Muhammad,5100013,Private Call,On,None,None
+321,JZ10EF RUDY,280320,Private Call,On,None,None
+322,YB0AZ Wisnu,5100001,Private Call,On,None,None
+323,YD0RFM Agus,5100002,Private Call,On,None,None
+324,YD2DVD Krisno,5100003,Private Call,On,None,None
+325,YG1ATR Agus,5100004,Private Call,On,None,None
+326,YC9XR Antoni,5100005,Private Call,On,None,None
+327,YB2WB Bagus,5100006,Private Call,On,None,None
+328,YC0SJA Matias,5100007,Private Call,On,None,None
+329,YD1FAH Giri,5100008,Private Call,On,None,None
+330,YD1FAH Giri,5100009,Private Call,On,None,None
+331,YD7JBA Miftah,5100010,Private Call,On,None,None
+332,YG9EYO Gde,5100011,Private Call,On,None,None
+333,YC0SPC Johan,5100012,Private Call,On,None,None
 334,YD3CRY Wahyu,5100014,Private Call,On,None,None
 335,YB0RWN Chandra,5100015,Private Call,On,None,None
 336,YE0EEE Dirganta,5100016,Private Call,On,None,None
@@ -352,803 +352,791 @@ Number,Name,Call ID,Type,Ring Style,Call Receive Tone,Repeater Slot override
 350,YB0CSP Cahyo,5100031,Private Call,On,None,None
 351,YD0ABN Aldo,5100032,Private Call,On,None,None
 352,YE1AR Budi,5100033,Private Call,On,None,None
-353,YD9BWT No Name,5100034,Private Call,On,None,None
-354,YD3BXL Bagus,5100035,Private Call,On,None,None
-355,YC2DOP Ary,5100036,Private Call,On,None,None
-356,YB1GBN Bobby,5100037,Private Call,On,None,None
-357,YE1BNI Siswandi,5100038,Private Call,On,None,None
-358,YG3GAI Apri,5100039,Private Call,On,None,None
-359,YB6UAK Sulaiman,5100040,Private Call,On,None,None
-360,YB1APR Arief,5100041,Private Call,On,None,None
-361,YB1SOQ Bayu,5100042,Private Call,On,None,None
-362,YB2NDX Erick,5100043,Private Call,On,None,None
-363,YB2MDU Bintoro,5100044,Private Call,On,None,None
-364,YD8AFG Andi,5100045,Private Call,On,None,None
-365,YB9GDP Munawiri,5100046,Private Call,On,None,None
-366,YC5YC Davidcy,5100047,Private Call,On,None,None
-367,YD3AFS Satriya,5100048,Private Call,On,None,None
-368,YC0OST Irsani,5100049,Private Call,On,None,None
-369,YD1IOU Wasim,5100050,Private Call,On,None,None
-370,YC2LCZ Pramuka,5100051,Private Call,On,None,None
-371,YF5NAW Refal,5100052,Private Call,On,None,None
-372,YD1CSO Heri,5100053,Private Call,On,None,None
-373,YD1AXR Purnama,5100054,Private Call,On,None,None
-374,YD1DGI Hadiyant,5100055,Private Call,On,None,None
-375,YC1JEL Dede,5100056,Private Call,On,None,None
-376,YB1BAX Ateng,5100057,Private Call,On,None,None
-377,YD0ANX Surya,5100058,Private Call,On,None,None
-378,YD0AWC Gunawan,5100059,Private Call,On,None,None
-379,YB1BML Wowon,5100060,Private Call,On,None,None
-380,YD3CQQ Yuli,5100061,Private Call,On,None,None
-381,YC1BAR Adang,5100062,Private Call,On,None,None
-382,YE3ETF Hendra,5100063,Private Call,On,None,None
-383,YB9GWR Christia,5100064,Private Call,On,None,None
-384,YC3DOC Nina,5100065,Private Call,On,None,None
-385,YB1DJO Djoko K,5100066,Private Call,On,None,None
-386,YD0ABD Irfansah,5100067,Private Call,On,None,None
-387,YC1AYO Suramto,5100068,Private Call,On,None,None
-388,YB1LZ Gun,5100069,Private Call,On,None,None
-389,YB1DWD Sri,5100070,Private Call,On,None,None
-390,YC1PZ Zulphiar,5100071,Private Call,On,None,None
-391,YB0PDZ Ganung,5100072,Private Call,On,None,None
-392,YC1JEA Taryana,5100073,Private Call,On,None,None
-393,YD1DKW Yudi,5100074,Private Call,On,None,None
-394,YD1LEQ Komara,5100075,Private Call,On,None,None
-395,YB1DGG Achmad,5100076,Private Call,On,None,None
-396,YD4AGL Maulana,5100077,Private Call,On,None,None
-397,YC0DMS Donny,5100078,Private Call,On,None,None
-398,YD1BMI Rahman,5100079,Private Call,On,None,None
-399,YC0AGP Adji,5100080,Private Call,On,None,None
-400,YE3ESW Poedjion,5100081,Private Call,On,None,None
-401,YB6VWV Eko,5100082,Private Call,On,None,None
-402,YB1RKT Yongky,5100083,Private Call,On,None,None
-403,YB1DXP Muchamma,5100084,Private Call,On,None,None
-404,YC1DDK Bagus,5100085,Private Call,On,None,None
-405,YC1GTQ Adin,5100086,Private Call,On,None,None
-406,YC1DIU Wiemar,5100087,Private Call,On,None,None
-407,YB1ICC Juliar,5100088,Private Call,On,None,None
-408,YD3FVH Henry,5100089,Private Call,On,None,None
-409,YB1BD Ebet,5100090,Private Call,On,None,None
-410,YC7YGR Ibrahim,5100091,Private Call,On,None,None
-411,YB1BZV Titov,5100092,Private Call,On,None,None
-412,YB1BUL Mula,5100093,Private Call,On,None,None
-413,YB0DYY Donny,5100094,Private Call,On,None,None
-414,YC0ACR Winanto,5100095,Private Call,On,None,None
-415,YD6ROA Aris,5100097,Private Call,On,None,None
-416,YD7OHC Agustinu,5100098,Private Call,On,None,None
-417,YC0SFS Novi,5100099,Private Call,On,None,None
-418,YD4RWH Syahadi,5100100,Private Call,On,None,None
-419,YC1CBY Indra,5100101,Private Call,On,None,None
-420,YC0RXA Irfan,5100102,Private Call,On,None,None
-421,YB2BZ Praharto,5100103,Private Call,On,None,None
-422,YC2SNK Hendra,5100104,Private Call,On,None,None
-423,YC1FEY Alironi,5100105,Private Call,On,None,None
-424,YB7XMR Muhammad,5100106,Private Call,On,None,None
-425,YB4HQ Robby,5100107,Private Call,On,None,None
-426,YC1BY Warsono,5100108,Private Call,On,None,None
-427,YB0ISE Mustafa,5100109,Private Call,On,None,None
-428,YG0GLE Wahyu,5100110,Private Call,On,None,None
-429,YD1DYI Kun,5100111,Private Call,On,None,None
-430,YC8AO Andi,5100112,Private Call,On,None,None
-431,YD5ALF Benny,5100113,Private Call,On,None,None
-432,YB5QZ Anton,5100114,Private Call,On,None,None
-433,YB1AR Yana,5100115,Private Call,On,None,None
-434,YB6ABO Doni,5100116,Private Call,On,None,None
-435,YG1AFQ Aos,5100117,Private Call,On,None,None
-436,YE1BON Ebon,5100118,Private Call,On,None,None
-437,YB1HR Agus,5100119,Private Call,On,None,None
-438,YD0SIO Joel,5100120,Private Call,On,None,None
-439,YD4SIO Erwin,5100121,Private Call,On,None,None
-440,YC7MCQ Muh,5100122,Private Call,On,None,None
-441,YC0WRY Wiryadin,5100123,Private Call,On,None,None
-442,YC1JXU Andi,5100124,Private Call,On,None,None
-443,YD9BEK Suarnawa,5100125,Private Call,On,None,None
-444,YD1RTW Elvan,5100126,Private Call,On,None,None
-445,YD1EFU Wawan,5100127,Private Call,On,None,None
-446,YD2VNF Totok,5100128,Private Call,On,None,None
-447,YC0OJM Elvin,5100129,Private Call,On,None,None
-448,YC5HFN Noveri,5100130,Private Call,On,None,None
-449,YC8BOQ Ilyeas,5100131,Private Call,On,None,None
-450,YC0BAO Hadi,5100132,Private Call,On,None,None
-451,YB0ORR Rachmat,5100133,Private Call,On,None,None
-452,YC1RHN Mashuri,5100134,Private Call,On,None,None
-453,YD6GWC Mujibuss,5100135,Private Call,On,None,None
-454,YD9BEJ Darta,5100136,Private Call,On,None,None
-455,YG9EDE Suwinaya,5100137,Private Call,On,None,None
-456,YC9CRV Dex Aris,5100138,Private Call,On,None,None
-457,YD9GXW Syafri,5100139,Private Call,On,None,None
-458,YC1THS Hendra,5100140,Private Call,On,None,None
-459,YC5NBZ Sukatno,5100141,Private Call,On,None,None
-460,YB7JUM Jumhaidi,5100142,Private Call,On,None,None
-461,YB0BAM Lie,5100143,Private Call,On,None,None
-462,YD6HOY Ali,5100144,Private Call,On,None,None
-463,YC7WDE Achmad,5100145,Private Call,On,None,None
-464,YC0PQX Suganda,5100146,Private Call,On,None,None
-465,YD5DFF Hanurani,5100147,Private Call,On,None,None
-466,YD7KXB Kahfi,5100148,Private Call,On,None,None
-467,YB2VUT Edy Pur,5100149,Private Call,On,None,None
-468,YD9XBZ Suwito,5100150,Private Call,On,None,None
-469,YC9RHC Paulus,5100151,Private Call,On,None,None
-470,YD0EVL Lim,5100152,Private Call,On,None,None
-471,YF7WMK Sabri,5100153,Private Call,On,None,None
-472,YD7UPM Fantri,5100154,Private Call,On,None,None
-473,YB2XVT Indra,5100155,Private Call,On,None,None
-474,YB4PW Widarman,5100156,Private Call,On,None,None
-475,YB2RX Agus,5100157,Private Call,On,None,None
-476,YB8LEF Effendi,5100158,Private Call,On,None,None
-477,YD7ICF Eko,5100159,Private Call,On,None,None
-478,YD0PGF Mahally,5100160,Private Call,On,None,None
-479,YD9ASO Gus Wayan,5100161,Private Call,On,None,None
-480,YC2FII Sulistio,5100162,Private Call,On,None,None
-481,YC1NXR Ajat,5100163,Private Call,On,None,None
-482,YB9UA Agustino,5100164,Private Call,On,None,None
-483,YC0RWL Reyhan,5100165,Private Call,On,None,None
-484,YB1SAM Sammy,5100166,Private Call,On,None,None
-485,YB2UWW Wawan,5100167,Private Call,On,None,None
-486,YB1TJ Djoko,5100168,Private Call,On,None,None
-487,YC8DQ Amrullah,5100169,Private Call,On,None,None
-488,YB2ERL Bambang,5100170,Private Call,On,None,None
-489,YD4SMK Arya,5100171,Private Call,On,None,None
-490,YG9DFK Wira,5100172,Private Call,On,None,None
-491,YD1MFI Bambang,5100173,Private Call,On,None,None
-492,YD0AXC Hanafi,5100174,Private Call,On,None,None
-493,YD0AWP Bonny,5100175,Private Call,On,None,None
-494,YB1EMY Sellmi,5100176,Private Call,On,None,None
-495,YD1JXM Ibrahim,5100177,Private Call,On,None,None
-496,YD0AWH Indra,5100178,Private Call,On,None,None
-497,YB1ETT Iyeng,5100179,Private Call,On,None,None
-498,YB1DXK Wawan,5100180,Private Call,On,None,None
-499,YC1CAR Hanny,5100181,Private Call,On,None,None
-500,YD0ASW Jefta,5100182,Private Call,On,None,None
-501,YD2UFZ Uke,5100183,Private Call,On,None,None
-502,YD2DEG Dedi,5100184,Private Call,On,None,None
-503,YD2AXX Maulana,5100185,Private Call,On,None,None
-504,YD1EMI Fera,5100186,Private Call,On,None,None
-505,YE7XON Nuryanto,5100187,Private Call,On,None,None
-506,YD3AFP Haryo,5100188,Private Call,On,None,None
-507,YC1IN Ipin,5100189,Private Call,On,None,None
-508,YC3ATE Edy,5100190,Private Call,On,None,None
-509,YD1EVD Vedy,5100191,Private Call,On,None,None
-510,YB0WYN Arwien,5100192,Private Call,On,None,None
-511,YB1PEF Arief,5100193,Private Call,On,None,None
-512,YB1BX Asep,5100194,Private Call,On,None,None
-513,YD1NRL Nural,5100195,Private Call,On,None,None
-514,YD0AVI Juliadi,5100196,Private Call,On,None,None
-515,YB8XM Joppy,5100197,Private Call,On,None,None
-516,YB1DUU Uu Choer,5100198,Private Call,On,None,None
-517,YD1CVS Hermawan,5100199,Private Call,On,None,None
-518,YC7OIZ Wahyudi,5100200,Private Call,On,None,None
-519,YD6HPI Dhanyar,5100201,Private Call,On,None,None
-520,YD6HPO Andhika,5100202,Private Call,On,None,None
-521,YE7YB Rachmad,5100203,Private Call,On,None,None
-522,YD1CMV Kusmara,5100204,Private Call,On,None,None
-523,YB7RV Ravie,5100205,Private Call,On,None,None
-524,YC0TBU Unggul,5100206,Private Call,On,None,None
-525,YB1MC Gunawan,5100207,Private Call,On,None,None
-526,YC9SOR Onysimus,5100208,Private Call,On,None,None
-527,YB6BAP Agung,5100209,Private Call,On,None,None
-528,YD1EKP Anwari,5100210,Private Call,On,None,None
-529,YB8VRA Agustinu,5100211,Private Call,On,None,None
-530,YD1ION Kiki,5100212,Private Call,On,None,None
-531,YB2BHX Sunarji,5100213,Private Call,On,None,None
-532,YG1AEQ Panji,5100214,Private Call,On,None,None
-533,YD0AOQ Budi,5100215,Private Call,On,None,None
-534,YD6IOV Hafizh,5100216,Private Call,On,None,None
-535,YD5NCM Rayhan,5100217,Private Call,On,None,None
-536,YB3EDD Edi,5100218,Private Call,On,None,None
-537,YD0ATX Krisnawa,5100219,Private Call,On,None,None
-538,YC1KDD Dadang,5100220,Private Call,On,None,None
-539,YB0DX Donny,5100221,Private Call,On,None,None
-540,YD1RZO Hadianto,5100222,Private Call,On,None,None
-541,YG2ADJ Rudy,5100223,Private Call,On,None,None
-542,YD5NMM Johan,5100224,Private Call,On,None,None
-543,YD6HQN Hendrawa,5100225,Private Call,On,None,None
-544,YD6ACE Muhammad,5100226,Private Call,On,None,None
-545,YB6DE Eddy,5100227,Private Call,On,None,None
-546,YD0TAX Syaefudi,5100228,Private Call,On,None,None
-547,YF3FBV Sugeng,5100229,Private Call,On,None,None
-548,YG2AFS Masrur,5100230,Private Call,On,None,None
-549,YD1DKZ Oentoeng,5100231,Private Call,On,None,None
-550,YC6ABJ Fitri,5100232,Private Call,On,None,None
-551,YG4SAO Rifki,5100233,Private Call,On,None,None
-552,YD1ROF Sigit,5100234,Private Call,On,None,None
-553,YG1AIE Heryawan,5100235,Private Call,On,None,None
-554,YD0AXD Hadi,5100236,Private Call,On,None,None
-555,YD0SNV Misar,5100237,Private Call,On,None,None
-556,YB6IVW Rudi,5100238,Private Call,On,None,None
-557,YC7XOQ Yulkhain,5100239,Private Call,On,None,None
-558,YC7HFY Fachri,5100240,Private Call,On,None,None
-559,YD4VRY Subroto,5100241,Private Call,On,None,None
-560,YD7KVL Agus,5100242,Private Call,On,None,None
-561,YD3BGY Wisnu,5100243,Private Call,On,None,None
-562,YD9WSC Hanantha,5100244,Private Call,On,None,None
-563,YD1DRC Ponco,5100245,Private Call,On,None,None
-564,YC4MSZ Rio,5100246,Private Call,On,None,None
-565,YD3GIF Adhi,5100247,Private Call,On,None,None
-566,YG4LWZ Ahmad,5100248,Private Call,On,None,None
-567,YD6HNL Mario,5100249,Private Call,On,None,None
-568,YD9CKH Jutahari,5100250,Private Call,On,None,None
-569,YD0FQW Effendy,5100251,Private Call,On,None,None
-570,YD2UFY Rizky,5100252,Private Call,On,None,None
-571,YD0SJU Ade,5100253,Private Call,On,None,None
-572,YD7LJL Muhammad,5100254,Private Call,On,None,None
-573,YD8XXF Natalio,5100255,Private Call,On,None,None
-574,YB8VK Abdul,5100256,Private Call,On,None,None
-575,YD9SOQ Vemmy,5100257,Private Call,On,None,None
-576,YC5NCB Hemi,5100258,Private Call,On,None,None
-577,YB2ECG Jon,5100259,Private Call,On,None,None
-578,YD4MHF Yandra,5100260,Private Call,On,None,None
-579,YC5NDJ Syamsul,5100261,Private Call,On,None,None
-580,YD1FEZ Asep,5100262,Private Call,On,None,None
-581,YC2OCW Gary,5100263,Private Call,On,None,None
-582,YD9BAX Wayan,5100264,Private Call,On,None,None
-583,YD6HQY Arief,5100265,Private Call,On,None,None
-584,YC4OX Tjang,5100266,Private Call,On,None,None
-585,YE4IIB Brian,5100267,Private Call,On,None,None
-586,YB4AS Tigor,5100268,Private Call,On,None,None
-587,YB3DY Yusuf,5100269,Private Call,On,None,None
-588,YD5NCH Deny,5100270,Private Call,On,None,None
-589,YB1MBA Anil,5100271,Private Call,On,None,None
-590,YD8EIT Muh,5100272,Private Call,On,None,None
-591,YC3BUP Nico,5100273,Private Call,On,None,None
-592,YG3FWC Jimad,5100274,Private Call,On,None,None
-593,YB7MP Agus,5100275,Private Call,On,None,None
-594,YC1MTT Tomi,5100276,Private Call,On,None,None
-595,YB6SC Sicai,5100277,Private Call,On,None,None
-596,YG6HBC Jhon,5100278,Private Call,On,None,None
-597,YC0TGA Toga,5100279,Private Call,On,None,None
-598,YD7IRS Ruslan,5100280,Private Call,On,None,None
-599,YD0SVI Robby,5100281,Private Call,On,None,None
-600,YC4PHG Hendra,5100282,Private Call,On,None,None
-601,YB6LBH Haji,5100283,Private Call,On,None,None
-602,YB2BSE Endang,5100284,Private Call,On,None,None
-603,YD0EXO Eko,5100285,Private Call,On,None,None
-604,YB0DOS Sumantri,5100286,Private Call,On,None,None
-605,YG1FTJ Anggoro,5100287,Private Call,On,None,None
-606,YC2WUJ Januar,5100288,Private Call,On,None,None
-607,YD8ACD Riski,5100289,Private Call,On,None,None
-608,YD5NGX Leo,5100290,Private Call,On,None,None
-609,YD0AKA Bambang,5100291,Private Call,On,None,None
-610,YC7HPH Mustamia,5100292,Private Call,On,None,None
-611,YF7SAC Kiky,5100293,Private Call,On,None,None
-612,YC0AQN Alifian,5100294,Private Call,On,None,None
-613,YC3SLY Asli Sam,5100295,Private Call,On,None,None
-614,YD8MUZ Ismail,5100296,Private Call,On,None,None
-615,YD5NIO Abubakar,5100297,Private Call,On,None,None
-616,YD5NGB Dedi,5100298,Private Call,On,None,None
-617,YD5NFY Aminuddi,5100299,Private Call,On,None,None
-618,YD5NJO Jul,5100300,Private Call,On,None,None
-619,YD5NKH Lutfi,5100301,Private Call,On,None,None
-620,YD5NIG Ragil,5100302,Private Call,On,None,None
-621,YD5NIZ Dodi,5100303,Private Call,On,None,None
-622,YD0BCS Danny,5100304,Private Call,On,None,None
-623,YD0BCX Hari,5100305,Private Call,On,None,None
-624,YD5NGF Sumriadi,5100306,Private Call,On,None,None
-625,YD5NDK Bayu,5100307,Private Call,On,None,None
-626,YD0JRU Hangga,5100308,Private Call,On,None,None
-627,YD5NCU Bambang,5100309,Private Call,On,None,None
-628,YD5NKP Marojaha,5100310,Private Call,On,None,None
-629,YC6HRI Freddybe,5100311,Private Call,On,None,None
-630,YB3RDW Redy,5100312,Private Call,On,None,None
-631,YB1RQX Rully,5100313,Private Call,On,None,None
-632,YD6VXO Gimin,5100314,Private Call,On,None,None
-633,YB3VO Soebandi,5100315,Private Call,On,None,None
-634,YD0AXL Nophy,5100316,Private Call,On,None,None
-635,YD3BRE Siwi,5100317,Private Call,On,None,None
-636,YB2WKC Eko,5100318,Private Call,On,None,None
-637,YB8VMI Hermits,5100319,Private Call,On,None,None
-638,YD0BDG Amirul,5100320,Private Call,On,None,None
-639,YD5NDC Suwardi,5100321,Private Call,On,None,None
-640,YG4FJB Wahyudi,5100322,Private Call,On,None,None
-641,YC8MMH Afrianto,5100323,Private Call,On,None,None
-642,YC6HPE Rubianto,5100324,Private Call,On,None,None
-643,YD2WYW Vidnayad,5100325,Private Call,On,None,None
-644,YG1APG Asep,5100326,Private Call,On,None,None
-645,YD6ACW Muh,5100327,Private Call,On,None,None
-646,YF0GHN Arief,5100328,Private Call,On,None,None
-647,YD5NIK Erhas,5100329,Private Call,On,None,None
-648,YD5NGC Oyong,5100330,Private Call,On,None,None
-649,YD0AVB Bayu,5100331,Private Call,On,None,None
-650,YD1RUH Ramadhan,5100332,Private Call,On,None,None
-651,YD1EGR Yusup,5100333,Private Call,On,None,None
-652,YD1BUH Budi,5100334,Private Call,On,None,None
-653,YC3BZF Ibnu,5100335,Private Call,On,None,None
-654,YB0KS Kiskenda,5100336,Private Call,On,None,None
-655,YG8ADI Ilman,5100337,Private Call,On,None,None
-656,YD6DR Dedy,5100338,Private Call,On,None,None
-657,YD3JOO Johan,5100339,Private Call,On,None,None
-658,YB6HAI Anda,5100340,Private Call,On,None,None
-659,YB2RT Liliek,5100341,Private Call,On,None,None
-660,YD6AAR No Name,5100342,Private Call,On,None,None
-661,YC6ROY Eddy,5100343,Private Call,On,None,None
-662,YD6DPO Wahid,5100344,Private Call,On,None,None
-663,YC6DBZ Badruzza,5100345,Private Call,On,None,None
-664,YD6AAX Chairil,5100346,Private Call,On,None,None
-665,YC2AUP Nukalix,5100347,Private Call,On,None,None
-666,YD5ARK Teddy,5100348,Private Call,On,None,None
-667,YC8UMD Devies,5100349,Private Call,On,None,None
-668,YG3ESY Dinne,5100350,Private Call,On,None,None
-669,YB7TZX Suraji,5100351,Private Call,On,None,None
-670,YD0BDK Matropi,5100352,Private Call,On,None,None
-671,YB1RUS Rusdy,5100353,Private Call,On,None,None
-672,YD1CAI Susilo,5100354,Private Call,On,None,None
-673,YB1VHC Rudi,5100355,Private Call,On,None,None
-674,YD8RPK Roland,5100356,Private Call,On,None,None
-675,YC0RPY Praseno,5100357,Private Call,On,None,None
-676,YG1ANH Muhammad,5100358,Private Call,On,None,None
-677,YC8FXI Endi,5100359,Private Call,On,None,None
-678,YB2RPO Panca,5100360,Private Call,On,None,None
-679,YC1OHE Hersupar,5100361,Private Call,On,None,None
-680,YD6HRD Karwan,5100362,Private Call,On,None,None
-681,YC0JOY David,5100363,Private Call,On,None,None
-682,YD8SAK Beverly,5100364,Private Call,On,None,None
-683,YD0APM Ricky,5100365,Private Call,On,None,None
-684,YD1ALR Sonny,5100366,Private Call,On,None,None
-685,YD6DKN Chairul,5100367,Private Call,On,None,None
-686,YC1MCD Nenda,5100368,Private Call,On,None,None
-687,YB8UYQ Hamdan,5100369,Private Call,On,None,None
-688,YC3CRE Anton,5100370,Private Call,On,None,None
-689,YB8XOB Jonny,5100371,Private Call,On,None,None
-690,YD3CEK Joni,5100372,Private Call,On,None,None
-691,YD3YGY Yohanes,5100373,Private Call,On,None,None
-692,YC3TSJ Tedjo,5100374,Private Call,On,None,None
-693,YD0AXN Agus,5100375,Private Call,On,None,None
-694,YB8SCP Victor,5100376,Private Call,On,None,None
-695,YC0NGA Fitra,5100377,Private Call,On,None,None
-696,YD6HSC Ikhsan,5100378,Private Call,On,None,None
-697,YD3AGU Eko,5100379,Private Call,On,None,None
-698,YC0ACH Satriyo,5100380,Private Call,On,None,None
-699,YC3BUS Hendro,5100381,Private Call,On,None,None
-700,YE4IJ Irfan,5100382,Private Call,On,None,None
-701,YB1SHF Hendri,5100384,Private Call,On,None,None
-702,YD3BUR Harijant,5100385,Private Call,On,None,None
-703,YB3DE Robertus,5100386,Private Call,On,None,None
-704,YD1BFG Fahlevi,5100387,Private Call,On,None,None
-705,YF9UAG Stefendy,5100388,Private Call,On,None,None
-706,YB3RVA Triatmad,5100389,Private Call,On,None,None
-707,YD0BEI Imam,5100390,Private Call,On,None,None
-708,YD0BDU Firmansy,5100391,Private Call,On,None,None
-709,YB7DNA Ahmad,5100392,Private Call,On,None,None
-710,YD0SMG Dito,5100393,Private Call,On,None,None
-711,YD1ATM Gunawan,5100394,Private Call,On,None,None
-712,YG1ARQ Okie,5100395,Private Call,On,None,None
-713,YC8BHD Shabir,5100396,Private Call,On,None,None
-714,YG1ANL Dede,5100397,Private Call,On,None,None
-715,YD0BEK Ahmad,5100398,Private Call,On,None,None
-716,YD1DBS Lanang,5100399,Private Call,On,None,None
-717,YD2BUX Ilham,5100400,Private Call,On,None,None
-718,YD0BCJ Evan,5100401,Private Call,On,None,None
-719,YD0BEW Rohman,5100402,Private Call,On,None,None
-720,YD0AKD Prasetyo,5100403,Private Call,On,None,None
-721,YD3AUD Ninik,5100404,Private Call,On,None,None
-722,YD0AAY Lendra,5100405,Private Call,On,None,None
-723,YC5AVO Nofriadi,5100406,Private Call,On,None,None
-724,YD1WDL Sudarman,5100407,Private Call,On,None,None
-725,YG1AAP Hamdi,5100408,Private Call,On,None,None
-726,YD0BGR Handy,5100409,Private Call,On,None,None
-727,YD0KON Andy,5100410,Private Call,On,None,None
-728,YD0BFB Budi,5100411,Private Call,On,None,None
-729,YB7FH Fardhon,5100412,Private Call,On,None,None
-730,YE5SX Bona,5100413,Private Call,On,None,None
-731,YG5NFF Willy,5100414,Private Call,On,None,None
-732,YD1BPV Nugroho,5100415,Private Call,On,None,None
-733,YG1ARU Denny,5100416,Private Call,On,None,None
-734,YD1ASJ Bambang,5100417,Private Call,On,None,None
-735,YG2AQG Wiedha,5100418,Private Call,On,None,None
-736,YG5NHB Riyanto,5100419,Private Call,On,None,None
-737,YG2AKH Ahmad,5100425,Private Call,On,None,None
-738,YC3BXK Ignatius,5100428,Private Call,On,None,None
-739,YB1HBO Tanto,5100430,Private Call,On,None,None
-740,YD0NTX Niti,5100431,Private Call,On,None,None
-741,YB6MIX Djohan,5100432,Private Call,On,None,None
-742,YC1IDB Damini,5100433,Private Call,On,None,None
-743,YD5NMN Himanto,5100434,Private Call,On,None,None
-744,YE5YUD Yudhi,5100435,Private Call,On,None,None
-745,YF1AIX Dwianto,5100436,Private Call,On,None,None
-746,YF5TOF Sapri,5100437,Private Call,On,None,None
-747,YG1AZZ Teuku,5100438,Private Call,On,None,None
-748,YC0AWG Jhon Ma,5100439,Private Call,On,None,None
-749,YE5OK Sukamto,5100440,Private Call,On,None,None
-750,YD3FEF Herman,5100441,Private Call,On,None,None
-751,YC8RPK Roland,5100442,Private Call,On,None,None
-752,YG1ARX Ahmad,5100443,Private Call,On,None,None
-753,YD0BHH No Name,5100444,Private Call,On,None,None
-754,YG1AWU Gilang,5100445,Private Call,On,None,None
-755,YC1AUI Milak,5100446,Private Call,On,None,None
-756,YD0RFN Frans,5100447,Private Call,On,None,None
-757,YD1EXT Indra,5100448,Private Call,On,None,None
-758,YD4LLNR Insan,5100449,Private Call,On,None,None
-759,YD9VME Argo,5100450,Private Call,On,None,None
-760,YD3BVS Stevano,5100451,Private Call,On,None,None
-761,YD8IKU Amiruddi,5100452,Private Call,On,None,None
-762,YD0AKC Yanwedya,5100453,Private Call,On,None,None
-763,YB0FNE Baskoro,5100454,Private Call,On,None,None
-764,YG8AEJ Ryan,5100455,Private Call,On,None,None
-765,YD6AEQ Eddy,5100456,Private Call,On,None,None
-766,YC2CQO Joni,5100457,Private Call,On,None,None
-767,YG1BBB Clarence,5100458,Private Call,On,None,None
-768,YD3TMF Subur,5100459,Private Call,On,None,None
-769,YC9ABD Bagus,5100460,Private Call,On,None,None
-770,YD3CCG Hari,5100461,Private Call,On,None,None
-771,YD6HRM Supriadi,5100462,Private Call,On,None,None
-772,YD3GFS Ambang,5100463,Private Call,On,None,None
-773,YD4SNO Ediyanto,5100464,Private Call,On,None,None
-774,YC3LVE Widihars,5100465,Private Call,On,None,None
-775,YD2BUE Mulyanto,5100467,Private Call,On,None,None
-776,YB6JMM Aswin,5100468,Private Call,On,None,None
-777,YD1RWH Tri,5100469,Private Call,On,None,None
-778,YD9HQY Ahmad,5100470,Private Call,On,None,None
-779,YD9HKW Suharto,5100471,Private Call,On,None,None
-780,YG1AUQ Ernan,5100472,Private Call,On,None,None
-781,YD5NIV Usman,5100473,Private Call,On,None,None
-782,YD5NFZ Susiyant,5100474,Private Call,On,None,None
-783,YD6AER Syaiful,5100475,Private Call,On,None,None
-784,YB2HKB Triyono,5100476,Private Call,On,None,None
-785,YC5NHD Hamidi,5100477,Private Call,On,None,None
-786,YD6HQC Andika,5100478,Private Call,On,None,None
-787,YD6HQB Ari Abdi,5100479,Private Call,On,None,None
-788,YD9GAC Edy,5100480,Private Call,On,None,None
-789,YD6HTK Darwin,5100481,Private Call,On,None,None
-790,YB3JF Djoko,5100482,Private Call,On,None,None
-791,YB3BIY Agus,5100483,Private Call,On,None,None
-792,YB2TDP Totok,5100484,Private Call,On,None,None
-793,YE1AAH Agung,5100485,Private Call,On,None,None
-794,YD2UCZ Wisnu,5100486,Private Call,On,None,None
-795,YD0AVF Abdul,5100487,Private Call,On,None,None
-796,YC3MVA Ali,5100488,Private Call,On,None,None
-797,YG0THE Arintoko,5100489,Private Call,On,None,None
-798,YD1FYL Atin,5100490,Private Call,On,None,None
-799,YC3BUE Sugiarto,5100491,Private Call,On,None,None
-800,YB1TS Benyamin,5100492,Private Call,On,None,None
-801,YC3NED Agung,5100493,Private Call,On,None,None
-802,YC3TIL Agus,5100494,Private Call,On,None,None
-803,YD9HSY Saidi,5100495,Private Call,On,None,None
-804,YD9HSX Taufiq,5100496,Private Call,On,None,None
-805,YD0AVP Djoni,5100497,Private Call,On,None,None
-806,YD0ABI Arrizqie,5100498,Private Call,On,None,None
-807,YC0AUI Haris,5100499,Private Call,On,None,None
-808,YB3FTD Djarot,5100500,Private Call,On,None,None
-809,YD1RZX Wisnu,5100501,Private Call,On,None,None
-810,YB7CN Ceparudi,5100502,Private Call,On,None,None
-811,YF5WQN Hadi,5100503,Private Call,On,None,None
-812,YD0BAG Sudrajat,5100504,Private Call,On,None,None
-813,YB3TE Tedjo,5100505,Private Call,On,None,None
-814,YC6POC Darul,5100506,Private Call,On,None,None
-815,YD0RDD Ady,5100507,Private Call,On,None,None
-816,YC1BCH Roesdi,5100508,Private Call,On,None,None
-817,YD1AJE Susila,5100509,Private Call,On,None,None
-818,YC8VHW Hengkie,5100511,Private Call,On,None,None
-819,YD2ADF Muhamad,5100512,Private Call,On,None,None
-820,YD1BEK Ludovic,5100513,Private Call,On,None,None
-821,YD9RRR Sukateli,5100514,Private Call,On,None,None
-822,YC0AOM Rusdi,5100515,Private Call,On,None,None
-823,YB3FAN Ivan,5100516,Private Call,On,None,None
-824,YD6HMI Eko,5100517,Private Call,On,None,None
-825,YD6HRZ Rudi,5100518,Private Call,On,None,None
-826,YC1YP Juniarso,5100519,Private Call,On,None,None
-827,YC6JMJ Jumiran,5100520,Private Call,On,None,None
-828,YD6HSH Achmad,5100521,Private Call,On,None,None
-829,YC6OEO Ferny,5100522,Private Call,On,None,None
-830,YH0AF Orari,5100523,Private Call,On,None,None
-831,YD8AKM Akram,5100524,Private Call,On,None,None
-832,YF8XRT Roland,5100525,Private Call,On,None,None
-833,YD0OEM Richard,5100526,Private Call,On,None,None
-834,YD2BLD Anton,5100527,Private Call,On,None,None
-835,YD6HQL Amal,5100528,Private Call,On,None,None
-836,YD6HRO Batara,5100529,Private Call,On,None,None
-837,YD6HPR Arifuddi,5100530,Private Call,On,None,None
-838,YF5TLS Ganda,5100531,Private Call,On,None,None
-839,YD1DIQ Basuki,5100532,Private Call,On,None,None
-840,YB8RSE Franky,5100533,Private Call,On,None,None
-841,YD8NLL Samriyan,5100534,Private Call,On,None,None
-842,YB8OUN Syafyudd,5100535,Private Call,On,None,None
-843,YG3CMS Ferry,5100536,Private Call,On,None,None
-844,YD3BVI Petrus,5100537,Private Call,On,None,None
-845,YB3BSK Bambang,5100538,Private Call,On,None,None
-846,YD3BRS Leo,5100539,Private Call,On,None,None
-847,YC3CNV Anang,5100540,Private Call,On,None,None
-848,YC6PPW Abel,5100541,Private Call,On,None,None
-849,YC3JHL Ferry,5100542,Private Call,On,None,None
-850,YD1IGJ Sigit,5100543,Private Call,On,None,None
-851,YC2OLH Moch,5100544,Private Call,On,None,None
-852,YE2YE Irawan,5100545,Private Call,On,None,None
-853,YD1KDL Nurashila,5100546,Private Call,On,None,None
-854,YD1ECD Nitya,5100547,Private Call,On,None,None
-855,YC0NLL Tekad,5100548,Private Call,On,None,None
-856,YD6HSV David,5100549,Private Call,On,None,None
-857,YD7ADL Akhmad,5100550,Private Call,On,None,None
-858,YG1BBQ Cucu,5100551,Private Call,On,None,None
-859,YD0YNV Mintardj,5100552,Private Call,On,None,None
-860,YD5ASJ Bayu,5100553,Private Call,On,None,None
-861,YF5TLW Hartono,5100554,Private Call,On,None,None
-862,YC2CLH Suharman,5100555,Private Call,On,None,None
-863,YD0BJM Sugi,5100556,Private Call,On,None,None
-864,YC2PAB Jumaroh,5100557,Private Call,On,None,None
-865,YD5NIH Ahmad,5100558,Private Call,On,None,None
-866,YD1FWM Eka,5100559,Private Call,On,None,None
-867,YB1GRZ Wahyu,5100560,Private Call,On,None,None
-868,YC2NNL Pangat,5100561,Private Call,On,None,None
-869,YC2JIS Saiful,5100562,Private Call,On,None,None
-870,YD1EOC Toto,5100563,Private Call,On,None,None
-871,YE3CLS Mujianto,5100564,Private Call,On,None,None
-872,YD2RGF Achmad,5100565,Private Call,On,None,None
-873,YD2IFA Arifah,5100566,Private Call,On,None,None
-874,YD3BHZ Wiyana,5100567,Private Call,On,None,None
-875,YD2KFP Dwi,5100568,Private Call,On,None,None
-876,YD2JEH Puji,5100569,Private Call,On,None,None
-877,YC2CAY Nanang,5100570,Private Call,On,None,None
-878,YC2OTJ Hadiyant,5100571,Private Call,On,None,None
-879,YD2BWS Dany,5100572,Private Call,On,None,None
-880,YC2NDH Wawan,5100573,Private Call,On,None,None
-881,YD2IEB Toto,5100574,Private Call,On,None,None
-882,YD2IEP Kudono,5100575,Private Call,On,None,None
-883,YD2IDC Iwan,5100576,Private Call,On,None,None
-884,YG2AOB Artiyo,5100577,Private Call,On,None,None
-885,YC2KOK Soeharso,5100578,Private Call,On,None,None
-886,YC2EOA Edy,5100579,Private Call,On,None,None
-887,YD2BWQ Mimbar,5100580,Private Call,On,None,None
-888,YG2UHE Danang,5100581,Private Call,On,None,None
-889,YG5NEA Asido,5100582,Private Call,On,None,None
-890,YD1EJC Akhmad,5100583,Private Call,On,None,None
-891,YC1TAS Dodi,5100584,Private Call,On,None,None
-892,YD2CVL Rikhun,5100585,Private Call,On,None,None
-893,YD2EXW Wamad,5100586,Private Call,On,None,None
-894,YB2BQU Dardiri,5100587,Private Call,On,None,None
-895,YG2EDY Edy,5100588,Private Call,On,None,None
-896,YF2BFA Kisno,5100589,Private Call,On,None,None
-897,YD1REA Denny,5100590,Private Call,On,None,None
-898,YC2EPY Muchlis,5100591,Private Call,On,None,None
-899,YC6KTR Khairudd,5100592,Private Call,On,None,None
-900,YC1BXU Totong,5100593,Private Call,On,None,None
-901,YC2WNR Wisnu,5100594,Private Call,On,None,None
-902,YG3FWA Philipus,5100595,Private Call,On,None,None
-903,YG2ASQ Nurwanto,5100596,Private Call,On,None,None
-904,YF0RIK Rikie,5100597,Private Call,On,None,None
-905,YG1AWC Doddy,5100598,Private Call,On,None,None
-906,YB3RZ Indarto,5100599,Private Call,On,None,None
-907,YH3BL Orari,5100600,Private Call,On,None,None
-908,YB3KM Thomas,5100601,Private Call,On,None,None
-909,YD2GYO Bagiyo,5100602,Private Call,On,None,None
-910,YC2BXR Djoko,5100603,Private Call,On,None,None
-911,YD2ICS Purwanto,5100604,Private Call,On,None,None
-912,YC3YLT Yulianto,5100605,Private Call,On,None,None
-913,YC2KQT No Name,5100606,Private Call,On,None,None
-914,YB2FRI Febriant,5100607,Private Call,On,None,None
-915,YG3CTD Henri,5100608,Private Call,On,None,None
-916,YG2IIN Solihin,5100609,Private Call,On,None,None
-917,YC2GSU Soni,5100610,Private Call,On,None,None
-918,YB2FHI Zulkarna,5100611,Private Call,On,None,None
-919,YF5OZ Mulia,5100612,Private Call,On,None,None
-920,YG2CPR Agus,5100613,Private Call,On,None,None
-921,YB2ILU Muhamad,5100614,Private Call,On,None,None
-922,YF5TMJ Firdaus,5100615,Private Call,On,None,None
-923,YG2ABY Edhie,5100616,Private Call,On,None,None
-924,YD2CLA Setyo,5100617,Private Call,On,None,None
-925,YC4AAB Muhammad,5100618,Private Call,On,None,None
-926,YG3AFK Edward,5100619,Private Call,On,None,None
-927,YD0BKY Ria,5100620,Private Call,On,None,None
-928,YD3CWR Aldino,5100621,Private Call,On,None,None
-929,YD6HVF Rava,5100622,Private Call,On,None,None
-930,YB5RU Rimon,5100623,Private Call,On,None,None
-931,YD2WPL Lukas,5100624,Private Call,On,None,None
-932,YC2VCA Muhammad,5100625,Private Call,On,None,None
-933,YD0BEN Budi,5100626,Private Call,On,None,None
-934,YD6HTG Fernando,5100627,Private Call,On,None,None
-935,YG1AJG Hendra,5100628,Private Call,On,None,None
-936,YD2XMX Muhammad,5100629,Private Call,On,None,None
-937,YD2DCE Akhmad,5100630,Private Call,On,None,None
-938,YC3VCD Yuyut,5100631,Private Call,On,None,None
-939,YD3BJQ Ubaidill,5100632,Private Call,On,None,None
-940,YD0AVD Agustinu,5100633,Private Call,On,None,None
-941,YD2CPS Aufa,5100634,Private Call,On,None,None
-942,YF5WCO Ismail,5100635,Private Call,On,None,None
-943,YD1FDD Wawan,5100636,Private Call,On,None,None
-944,YD3RUS Rusdy,5100637,Private Call,On,None,None
-945,YD2AQL Fiki,5100638,Private Call,On,None,None
-946,YD2DAF Arip,5100639,Private Call,On,None,None
-947,YC2BDQ Achmad,5100640,Private Call,On,None,None
-948,YB1LL Wirjawan,5100641,Private Call,On,None,None
-949,YG1BHK Muhammad,5100642,Private Call,On,None,None
-950,YH3SUB ORARI,5100643,Private Call,On,None,None
-951,YC2TTG Tatang,5100644,Private Call,On,None,None
-952,YB0SCV Dedy,5100645,Private Call,On,None,None
-953,YB0FVV Johannes,5100646,Private Call,On,None,None
-954,YC3TOM David,5100647,Private Call,On,None,None
-955,YG3FWD Rokky,5100648,Private Call,On,None,None
-956,YC0OSU Aditya,5100649,Private Call,On,None,None
-957,YG2AXI Yayan,5100650,Private Call,On,None,None
-958,YD1EEP Acep,5100651,Private Call,On,None,None
-959,YD3TVV Kuswanto,5100652,Private Call,On,None,None
-960,YB0MSF Djoko,5100653,Private Call,On,None,None
-961,YB3CTK Supono,5100654,Private Call,On,None,None
-962,YD0RVQ Rahmad,5100655,Private Call,On,None,None
-963,YD4GFQ Novan,5100656,Private Call,On,None,None
-964,YD0RVS Supriyan,5100657,Private Call,On,None,None
-965,YC0UI Dewi,5100658,Private Call,On,None,None
-966,YD5NPZ Erikson,5100659,Private Call,On,None,None
-967,YC2BAH Bambang,5100660,Private Call,On,None,None
-968,YC5NAU Zanan,5100661,Private Call,On,None,None
-969,YD7UUV Teguh,5100662,Private Call,On,None,None
-970,YB8MAN Badrin,5100663,Private Call,On,None,None
-971,YD1CFD Freddy,5100664,Private Call,On,None,None
-972,YD8EHF Khaerudd,5100665,Private Call,On,None,None
-973,YG1BJJ Mariyant,5100666,Private Call,On,None,None
-974,YD0ATA Eko,5100667,Private Call,On,None,None
-975,YC2OLI Eddy,5100668,Private Call,On,None,None
-976,YD6HGD Agam,5100669,Private Call,On,None,None
-977,YG8RIA Edi,5100670,Private Call,On,None,None
-978,YD9ATU Agung,5100671,Private Call,On,None,None
-979,YD2VJI Tisa,5100672,Private Call,On,None,None
-980,YD5YDM Setyo,5100673,Private Call,On,None,None
-981,YG2BBE Jarot,5100674,Private Call,On,None,None
-982,YD2RBS Wahudi,5100675,Private Call,On,None,None
-983,YG1BKK Ricky,5100676,Private Call,On,None,None
-984,YC2CPQ Indra,5100677,Private Call,On,None,None
-985,YC1JGE Husni,5100678,Private Call,On,None,None
-986,YC2SSY Ign,5100679,Private Call,On,None,None
-987,YG2BCM Almer,5100680,Private Call,On,None,None
-988,YG1BKC Dede,5100681,Private Call,On,None,None
-989,YD9HWH Eva,5100682,Private Call,On,None,None
-990,YD2UTC Zandy,5100683,Private Call,On,None,None
-991,YB3BXF Drs,5100684,Private Call,On,None,None
-992,YC2CLQ Basuki,5100685,Private Call,On,None,None
-993,YD9CVS Tutwidi,5100686,Private Call,On,None,None
-994,YB0NSI Tarunodj,5100687,Private Call,On,None,None
-995,YC2GAN Wakhid,5100688,Private Call,On,None,None
-996,YD2GXV No Name,5100689,Private Call,On,None,None
-997,YB1ALT Usep,5100690,Private Call,On,None,None
-998,YF1ANL Dede,5100691,Private Call,On,None,None
-999,YD2JTP Sigit,5100692,Private Call,On,None,None
-1000,YD0BBJ Ali,5100693,Private Call,On,None,None
-1001,YC2SRM Rahmat,5100694,Private Call,On,None,None
-1002,YC0LMS Oey,5100695,Private Call,On,None,None
-1003,YB2SOV Sofiyan,5100696,Private Call,On,None,None
-1004,YD1CDK Arif,5100697,Private Call,On,None,None
-1005,YD2VJP Eko,5100698,Private Call,On,None,None
-1006,YB1BBD Agung,5100699,Private Call,On,None,None
-1007,YG3ALC Djody,5100700,Private Call,On,None,None
-1008,YC2OWI Saripan,5100701,Private Call,On,None,None
-1009,YD2DBV Sujinto,5100702,Private Call,On,None,None
-1010,YC2GGW Abi,5100703,Private Call,On,None,None
-1011,YB7CCP Cece,5100704,Private Call,On,None,None
-1012,YC1CWO Sumia,5100705,Private Call,On,None,None
-1013,YG1BDE Ali,5100706,Private Call,On,None,None
-1014,YG2ANG Akhmad,5100707,Private Call,On,None,None
-1015,YD2RJI Joko,5100708,Private Call,On,None,None
-1016,YC8VAJ Josias,5100709,Private Call,On,None,None
-1017,YG2AWN Djuprija,5100710,Private Call,On,None,None
-1018,YG3ACN Husin,5100711,Private Call,On,None,None
-1019,YB3GU Irwanto,5100712,Private Call,On,None,None
-1020,YG3APH Herry,5100713,Private Call,On,None,None
-1021,YD6HDK Yustinus,5100714,Private Call,On,None,None
-1022,YG3ANX Suryo,5100715,Private Call,On,None,None
-1023,YD5NOS Rio,5100716,Private Call,On,None,None
-1024,YH1AVB Orari,5100717,Private Call,On,None,None
-1025,YG3AJE Ahmad,5100718,Private Call,On,None,None
-1026,YG3AQK Djoko,5100719,Private Call,On,None,None
-1027,YD3CII Betantyo,5100720,Private Call,On,None,None
-1028,YG5NCQ Agustian,5100721,Private Call,On,None,None
-1029,YH1AL ORARI,5100723,Private Call,On,None,None
-1030,YH7HC Orari,5100725,Private Call,On,None,None
-1031,YH6HA Orari,5100726,Private Call,On,None,None
-1032,YH2AE Orari,5100728,Private Call,On,None,None
-1033,YB8EIP Sulwan,5100729,Private Call,On,None,None
-1034,YG3ART Mufti,5100730,Private Call,On,None,None
-1035,YD1ESZ Imam,5100733,Private Call,On,None,None
-1036,YD6HMC Ekki,5100734,Private Call,On,None,None
-1037,YD0BJJ Andre,5100735,Private Call,On,None,None
-1038,YD2RES Elfi,5100736,Private Call,On,None,None
-1039,YD1SMY Herry,5100737,Private Call,On,None,None
-1040,YD6HRV William,5100738,Private Call,On,None,None
-1041,YD0LLN Syachria,5100739,Private Call,On,None,None
-1042,YB8TB Bambang,5100740,Private Call,On,None,None
-1043,YC3IRM Matius,5100741,Private Call,On,None,None
-1044,YD1BIS Ernas,5100742,Private Call,On,None,None
-1045,YD4FLY Erwin,5100743,Private Call,On,None,None
-1046,YG3FLP Steffanu,5100744,Private Call,On,None,None
-1047,YG2AKD Muhamad,5100745,Private Call,On,None,None
-1048,YD3CZV Mochamad,5100746,Private Call,On,None,None
-1049,YD2VKB Starky,5100747,Private Call,On,None,None
-1050,YB4BM Maswardi,5100748,Private Call,On,None,None
-1051,YB4ECU Ansyori,5100749,Private Call,On,None,None
-1052,YC4AJB Bambang,5100750,Private Call,On,None,None
-1053,YC4DYR Indra,5100751,Private Call,On,None,None
-1054,YG3AIW Danu,5100752,Private Call,On,None,None
-1055,YC4BK Muhammad,5100753,Private Call,On,None,None
-1056,YD2CLX Havid,5100754,Private Call,On,None,None
-1057,YC3VRO Theresia,5100755,Private Call,On,None,None
-1058,YB4BDU Iriandi,5100756,Private Call,On,None,None
-1059,YC4AHH Taufik,5100757,Private Call,On,None,None
-1060,YG3AWK Ony,5100758,Private Call,On,None,None
-1061,YG3AVI Haryadi,5100759,Private Call,On,None,None
-1062,YG2BFS Imam,5100760,Private Call,On,None,None
-1063,YB7XPV Haji,5100761,Private Call,On,None,None
-1064,YD3BAF Utomo,5100762,Private Call,On,None,None
-1065,YC3BVO Dede,5100763,Private Call,On,None,None
-1066,YC2FAO Faozan,5100764,Private Call,On,None,None
-1067,YC4APF Eko,5100765,Private Call,On,None,None
-1068,YG1BSH Agus,5100766,Private Call,On,None,None
-1069,YB8DNT Muhammad,5100767,Private Call,On,None,None
-1070,YD3PSR Agus,5100768,Private Call,On,None,None
-1071,YG3AFD Satriya,5100769,Private Call,On,None,None
-1072,YG7NPC Sutata,5100770,Private Call,On,None,None
-1073,YD2ETN Nor,5100771,Private Call,On,None,None
-1074,YD3LEO Leonard,5100772,Private Call,On,None,None
-1075,YG3AZL Subhan,5100773,Private Call,On,None,None
-1076,YG3AZM Sarjono,5100774,Private Call,On,None,None
-1077,YD2SMH Anas,5100775,Private Call,On,None,None
-1078,YD1CQW Priya,5100776,Private Call,On,None,None
-1079,YC8VFB Fransisc,5100777,Private Call,On,None,None
-1080,YB2CTE Ahmad,5100778,Private Call,On,None,None
-1081,YD2NIR Misbachu,5100779,Private Call,On,None,None
-1082,YB1UUU Triyono,5100780,Private Call,On,None,None
-1083,YD5NMR Haryanto,5100781,Private Call,On,None,None
-1084,YC5NBA Bahril,5100782,Private Call,On,None,None
-1085,YG2AYZ Wima,5100783,Private Call,On,None,None
-1086,YD2IAU Mujiono,5100784,Private Call,On,None,None
-1087,YG1BKB Budi,5100785,Private Call,On,None,None
-1088,YD7IEE Muhammad,5100786,Private Call,On,None,None
-1089,YB7VAS Agus,5100787,Private Call,On,None,None
-1090,YC7NUP Urip,5100788,Private Call,On,None,None
-1091,YG3APG Bayu,5100789,Private Call,On,None,None
-1092,YD3CFC Mukhlis,5100790,Private Call,On,None,None
-1093,YD2UFV Felix,5100791,Private Call,On,None,None
-1094,YD3ATQ Jimmy,5100792,Private Call,On,None,None
-1095,YD2DMP Ahmad,5100793,Private Call,On,None,None
-1096,YD4XLH Dekky,5100794,Private Call,On,None,None
-1097,YD2PAR Sapardi,5100795,Private Call,On,None,None
-1098,YD3AUB Suharto,5100796,Private Call,On,None,None
-1099,YD3BQZ Dody,5100797,Private Call,On,None,None
-1100,YC8GSV Asri,5100798,Private Call,On,None,None
-1101,YD2BYK Hastu,5100799,Private Call,On,None,None
-1102,YB6INI Zulkarna,5100800,Private Call,On,None,None
-1103,YC0RFS Iskandar,5100801,Private Call,On,None,None
-1104,YF7NFB Taufik,5100802,Private Call,On,None,None
-1105,YC7UVU Priyanto,5100803,Private Call,On,None,None
-1106,YC2MPF Frans,5100804,Private Call,On,None,None
-1107,YC7UJQ Imam,5100805,Private Call,On,None,None
-1108,YD7HGS Rosmini,5100806,Private Call,On,None,None
-1109,YB7MYS Muhammad,5100807,Private Call,On,None,None
-1110,YD0AFF Yudha,5100808,Private Call,On,None,None
-1111,YD1ANA Gymnasti,5100809,Private Call,On,None,None
-1112,YC1JNV Cucun,5100810,Private Call,On,None,None
-1113,YD2EBA Hendi,5100811,Private Call,On,None,None
-1114,YD0AFC Eko,5100812,Private Call,On,None,None
-1115,YC2LEI Nuryani,5100813,Private Call,On,None,None
-1116,YB2JVX Fx,5100814,Private Call,On,None,None
-1117,YD2IJA Wiji,5100815,Private Call,On,None,None
-1118,YD2ATI Muhamad,5100816,Private Call,On,None,None
-1119,YF2ARZ DjokoSoe,5100817,Private Call,On,None,None
-1120,YG2AVS Yani,5100818,Private Call,On,None,None
-1121,YB0OIL Adhianto,5100819,Private Call,On,None,None
-1122,YD6HAX Kuswandi,5100820,Private Call,On,None,None
-1123,YD0BAY Jody,5100821,Private Call,On,None,None
-1124,YH0AA Orari,5100822,Private Call,On,None,None
-1125,YH0D Orari,5100823,Private Call,On,None,None
-1126,YD6SVL Nurdin,5100824,Private Call,On,None,None
-1127,YD1RIA Aris R,5100825,Private Call,On,None,None
-1128,YB0AZ Wisnu,5101001,Private Call,On,None,None
-1129,YD0DIO Amadio,5101002,Private Call,On,None,None
-1130,YB0AZ Wisnu,5101003,Private Call,On,None,None
-1131,YG0DEA Andrea,5101004,Private Call,On,None,None
-1132,YC0WID Widyati,5101005,Private Call,On,None,None
-1133,YB0HD Budi,5101007,Private Call,On,None,None
-1134,YB1GJS Gjellani,5101008,Private Call,On,None,None
-1135,YB0BP Junus,5101012,Private Call,On,None,None
-1136,YB0KBJ Wira,5101015,Private Call,On,None,None
-1137,YB0BTJ Mulia,5101016,Private Call,On,None,None
-1138,YB0EUI Dhany,5101017,Private Call,On,None,None
-1139,YB0GS Ferdinan,5101018,Private Call,On,None,None
-1140,YB0COD Sutjitra,5101020,Private Call,On,None,None
-1141,YC0FJY Sudjono,5101021,Private Call,On,None,None
-1142,YC0LCC Sartono,5101022,Private Call,On,None,None
-1143,YB0GIN Ginanjar,5101025,Private Call,On,None,None
-1144,YB0EUI Dhany,5101026,Private Call,On,None,None
-1145,YB0FEX YokLesma,5101027,Private Call,On,None,None
-1146,YB0COD Sutjitra,5101028,Private Call,On,None,None
-1147,YB0ECT Prihando,5101029,Private Call,On,None,None
-1148,YB0IF Andreas,5101030,Private Call,On,None,None
-1149,YC1SQ Reginald,5101031,Private Call,On,None,None
-1150,YD0NXX Suryono,5101034,Private Call,On,None,None
-1151,YB9REU Joni,5101038,Private Call,On,None,None
-1152,YD5NPC Sutan,5108888,Private Call,On,None,None
+353,YD3BXL Bagus,5100035,Private Call,On,None,None
+354,YC2DOP Ary,5100036,Private Call,On,None,None
+355,YB1GBN Bobby,5100037,Private Call,On,None,None
+356,YE1BNI Siswandi,5100038,Private Call,On,None,None
+357,YG3GAI Apri,5100039,Private Call,On,None,None
+358,YB6UAK Sulaiman,5100040,Private Call,On,None,None
+359,YB1APR Arief,5100041,Private Call,On,None,None
+360,YB1SOQ Bayu,5100042,Private Call,On,None,None
+361,YB2NDX Erick,5100043,Private Call,On,None,None
+362,YB2MDU Bintoro,5100044,Private Call,On,None,None
+363,YD8AFG Andi,5100045,Private Call,On,None,None
+364,YB9GDP Munawiri,5100046,Private Call,On,None,None
+365,YC5YC Davidcy,5100047,Private Call,On,None,None
+366,YD3AFS Satriya,5100048,Private Call,On,None,None
+367,YC0OST Irsani,5100049,Private Call,On,None,None
+368,YD1IOU Wasim,5100050,Private Call,On,None,None
+369,YC2LCZ Pramuka,5100051,Private Call,On,None,None
+370,YF5NAW Refal,5100052,Private Call,On,None,None
+371,YD1CSO Heri,5100053,Private Call,On,None,None
+372,YD1AXR Purnama,5100054,Private Call,On,None,None
+373,YD1DGI Hadiyant,5100055,Private Call,On,None,None
+374,YC1JEL Dede,5100056,Private Call,On,None,None
+375,YB1BAX Ateng,5100057,Private Call,On,None,None
+376,YD0ANX Surya,5100058,Private Call,On,None,None
+377,YD0AWC Gunawan,5100059,Private Call,On,None,None
+378,YB1BML Wowon,5100060,Private Call,On,None,None
+379,YD3CQQ Yuli,5100061,Private Call,On,None,None
+380,YC1BAR Adang,5100062,Private Call,On,None,None
+381,YE3ETF Hendra,5100063,Private Call,On,None,None
+382,YB9GWR Christia,5100064,Private Call,On,None,None
+383,YC3DOC Nina,5100065,Private Call,On,None,None
+384,YB1DJO Djoko K,5100066,Private Call,On,None,None
+385,YD0ABD Irfansah,5100067,Private Call,On,None,None
+386,YC1AYO Suramto,5100068,Private Call,On,None,None
+387,YB1LZ Gun,5100069,Private Call,On,None,None
+388,YB1DWD Sri,5100070,Private Call,On,None,None
+389,YC1PZ Zulphiar,5100071,Private Call,On,None,None
+390,YB0PDZ Ganung,5100072,Private Call,On,None,None
+391,YC1JEA Taryana,5100073,Private Call,On,None,None
+392,YD1DKW Yudi,5100074,Private Call,On,None,None
+393,YD1LEQ Komara,5100075,Private Call,On,None,None
+394,YB1DGG Achmad,5100076,Private Call,On,None,None
+395,YD4AGL Maulana,5100077,Private Call,On,None,None
+396,YC0DMS Donny,5100078,Private Call,On,None,None
+397,YD1BMI Rahman,5100079,Private Call,On,None,None
+398,YC0AGP Adji,5100080,Private Call,On,None,None
+399,YE3ESW Poedjion,5100081,Private Call,On,None,None
+400,YB6VWV Eko,5100082,Private Call,On,None,None
+401,YB1RKT Yongky,5100083,Private Call,On,None,None
+402,YB1DXP Zul,5100084,Private Call,On,None,None
+403,YC1DDK Bagus,5100085,Private Call,On,None,None
+404,YC1GTQ Adin,5100086,Private Call,On,None,None
+405,YC1DIU Wiemar,5100087,Private Call,On,None,None
+406,YB1ICC Juliar,5100088,Private Call,On,None,None
+407,YD3FVH Henry,5100089,Private Call,On,None,None
+408,YB1BD Ebet,5100090,Private Call,On,None,None
+409,YC7YGR Ibrahim,5100091,Private Call,On,None,None
+410,YB1BZV Titov,5100092,Private Call,On,None,None
+411,YB1BUL Mula,5100093,Private Call,On,None,None
+412,YB0DYY Donny,5100094,Private Call,On,None,None
+413,YC0ACR Winanto,5100095,Private Call,On,None,None
+414,YD6ROA Aris,5100097,Private Call,On,None,None
+415,YD7OHC Agus,5100098,Private Call,On,None,None
+416,YC0SFS Novi,5100099,Private Call,On,None,None
+417,YD4RWH Syahadi,5100100,Private Call,On,None,None
+418,YC1CBY Indra,5100101,Private Call,On,None,None
+419,YC0RXA Irfan,5100102,Private Call,On,None,None
+420,YB2BZ Praharto,5100103,Private Call,On,None,None
+421,YC2SNK Hendra,5100104,Private Call,On,None,None
+422,YC1FEY Alironi,5100105,Private Call,On,None,None
+423,YB7XMR Rijadie,5100106,Private Call,On,None,None
+424,YB4HQ Robby,5100107,Private Call,On,None,None
+425,YC1BY Warsono,5100108,Private Call,On,None,None
+426,YB0ISE Mustafa,5100109,Private Call,On,None,None
+427,YG0GLE Wahyu,5100110,Private Call,On,None,None
+428,YD1DYI Kun,5100111,Private Call,On,None,None
+429,YC8AO Andi,5100112,Private Call,On,None,None
+430,YD5ALF Benny,5100113,Private Call,On,None,None
+431,YB5QZ Anton,5100114,Private Call,On,None,None
+432,YB1AR Yana,5100115,Private Call,On,None,None
+433,YB6ABO Doni,5100116,Private Call,On,None,None
+434,YG1AFQ Aos,5100117,Private Call,On,None,None
+435,YE1BON Ebon,5100118,Private Call,On,None,None
+436,YB1HR Agus,5100119,Private Call,On,None,None
+437,YD0SIO Joel,5100120,Private Call,On,None,None
+438,YD4SIO Erwin,5100121,Private Call,On,None,None
+439,YC7MCQ Muh,5100122,Private Call,On,None,None
+440,YC0WRY Wirya,5100123,Private Call,On,None,None
+441,YC1JXU Andi,5100124,Private Call,On,None,None
+442,YD9BEK Suarnawa,5100125,Private Call,On,None,None
+443,YD1RTW Elvan,5100126,Private Call,On,None,None
+444,YD1EFU Wawan,5100127,Private Call,On,None,None
+445,YD2VNF Totok,5100128,Private Call,On,None,None
+446,YC0OJM Elvin,5100129,Private Call,On,None,None
+447,YC5HFN Noveri,5100130,Private Call,On,None,None
+448,YC8BOQ Ilyeas,5100131,Private Call,On,None,None
+449,YC0BAO Hadi,5100132,Private Call,On,None,None
+450,YB0ORR Rachmat,5100133,Private Call,On,None,None
+451,YC1RHN Mashuri,5100134,Private Call,On,None,None
+452,YD6GWC Mujibuss,5100135,Private Call,On,None,None
+453,YD9BEJ Darta,5100136,Private Call,On,None,None
+454,YG9EDE Suwinaya,5100137,Private Call,On,None,None
+455,YC9CRV Dex Aris,5100138,Private Call,On,None,None
+456,YD9GXW Syafri,5100139,Private Call,On,None,None
+457,YC1THS Hendra,5100140,Private Call,On,None,None
+458,YC5NBZ Sukatno,5100141,Private Call,On,None,None
+459,YB7JUM Jumhaidi,5100142,Private Call,On,None,None
+460,YB0BAM Lie,5100143,Private Call,On,None,None
+461,YD6HOY Ali,5100144,Private Call,On,None,None
+462,YC7WDE Achmad,5100145,Private Call,On,None,None
+463,YC0PQX Suganda,5100146,Private Call,On,None,None
+464,YD5DFF Hanurani,5100147,Private Call,On,None,None
+465,YD7KXB Kahfi,5100148,Private Call,On,None,None
+466,YB2VUT Edy Pur,5100149,Private Call,On,None,None
+467,YD9XBZ Suwito,5100150,Private Call,On,None,None
+468,YC9RHC Paulus,5100151,Private Call,On,None,None
+469,YD0EVL Lim,5100152,Private Call,On,None,None
+470,YF7WMK Sabri,5100153,Private Call,On,None,None
+471,YD7UPM Fantri,5100154,Private Call,On,None,None
+472,YB2XVT Indra,5100155,Private Call,On,None,None
+473,YB4PW Widarman,5100156,Private Call,On,None,None
+474,YB2RX Agus,5100157,Private Call,On,None,None
+475,YB8LEF Effendi,5100158,Private Call,On,None,None
+476,YD7ICF Eko,5100159,Private Call,On,None,None
+477,YD0PGF Mahally,5100160,Private Call,On,None,None
+478,YD9ASO Gus Wayan,5100161,Private Call,On,None,None
+479,YC2FII Sulistio,5100162,Private Call,On,None,None
+480,YC1NXR Ajat,5100163,Private Call,On,None,None
+481,YB9UA Agustino,5100164,Private Call,On,None,None
+482,YC0RWL Reyhan,5100165,Private Call,On,None,None
+483,YB1SAM Sammy,5100166,Private Call,On,None,None
+484,YB2UWW Wawan,5100167,Private Call,On,None,None
+485,YB1TJ Djoko,5100168,Private Call,On,None,None
+486,YC8DQ Amrullah,5100169,Private Call,On,None,None
+487,YB2ERL Bambang,5100170,Private Call,On,None,None
+488,YD4SMK Arya,5100171,Private Call,On,None,None
+489,YG9DFK Wira,5100172,Private Call,On,None,None
+490,YD1MFI Bambang,5100173,Private Call,On,None,None
+491,YD0AXC Hanafi,5100174,Private Call,On,None,None
+492,YD0AWP Bonny,5100175,Private Call,On,None,None
+493,YB1EMY Sellmi,5100176,Private Call,On,None,None
+494,YD1JXM Ibrahim,5100177,Private Call,On,None,None
+495,YD0AWH Indra,5100178,Private Call,On,None,None
+496,YB1ETT Iyeng,5100179,Private Call,On,None,None
+497,YB1DXK Wawan,5100180,Private Call,On,None,None
+498,YC1CAR Hanny,5100181,Private Call,On,None,None
+499,YD0ASW Jefta,5100182,Private Call,On,None,None
+500,YD2UFZ Uke,5100183,Private Call,On,None,None
+501,YD2DEG Dedi,5100184,Private Call,On,None,None
+502,YD2AXX Maulana,5100185,Private Call,On,None,None
+503,YD1EMI Fera,5100186,Private Call,On,None,None
+504,YE7XON Nuryanto,5100187,Private Call,On,None,None
+505,YD3AFP Haryo,5100188,Private Call,On,None,None
+506,YC1IN Ipin,5100189,Private Call,On,None,None
+507,YC3ATE Edy,5100190,Private Call,On,None,None
+508,YD1EVD Vedy,5100191,Private Call,On,None,None
+509,YB0WYN Arwien,5100192,Private Call,On,None,None
+510,YB1PEF Arief,5100193,Private Call,On,None,None
+511,YB1BX Asep,5100194,Private Call,On,None,None
+512,YD1NRL Nural,5100195,Private Call,On,None,None
+513,YD0AVI Juliadi,5100196,Private Call,On,None,None
+514,YB8XM Joppy,5100197,Private Call,On,None,None
+515,YB1DUU Uu’,5100198,Private Call,On,None,None
+516,YD1CVS Hermawan,5100199,Private Call,On,None,None
+517,YC7OIZ Wahyudi,5100200,Private Call,On,None,None
+518,YD6HPI Dhanyar,5100201,Private Call,On,None,None
+519,YD6HPO Andhika,5100202,Private Call,On,None,None
+520,YE7YB Rachmad,5100203,Private Call,On,None,None
+521,YD1CMV Kusmara,5100204,Private Call,On,None,None
+522,YB7RV Ravie,5100205,Private Call,On,None,None
+523,YC0TBU Unggul,5100206,Private Call,On,None,None
+524,YB1MC Gunawan,5100207,Private Call,On,None,None
+525,YC9SOR Onysimus,5100208,Private Call,On,None,None
+526,YB6BAP Agung,5100209,Private Call,On,None,None
+527,YD1EKP Anwari,5100210,Private Call,On,None,None
+528,YB8VRA Agust,5100211,Private Call,On,None,None
+529,YD1ION Kiki,5100212,Private Call,On,None,None
+530,YB2BHX Sunarji,5100213,Private Call,On,None,None
+531,YG1AEQ Panji,5100214,Private Call,On,None,None
+532,YD0AOQ Budi,5100215,Private Call,On,None,None
+533,YD6IOV Hafizh,5100216,Private Call,On,None,None
+534,YD5NCM Rayhan,5100217,Private Call,On,None,None
+535,YB3EDD Edi,5100218,Private Call,On,None,None
+536,YD0ATX Krisna,5100219,Private Call,On,None,None
+537,YC1KDD Dadang,5100220,Private Call,On,None,None
+538,YB0DX Donny,5100221,Private Call,On,None,None
+539,YD1RZO Hadianto,5100222,Private Call,On,None,None
+540,YG2ADJ Rudy,5100223,Private Call,On,None,None
+541,YD5NMM Johan,5100224,Private Call,On,None,None
+542,YD6HQN Hendra,5100225,Private Call,On,None,None
+543,YB6DE Eddy,5100227,Private Call,On,None,None
+544,YD0TAX Syaefudi,5100228,Private Call,On,None,None
+545,YF3FBV Sugeng,5100229,Private Call,On,None,None
+546,YG2AFS Masrur,5100230,Private Call,On,None,None
+547,YD1DKZ Oentoeng,5100231,Private Call,On,None,None
+548,YC6ABJ Fitri,5100232,Private Call,On,None,None
+549,YG4SAO Rifki,5100233,Private Call,On,None,None
+550,YD1ROF Sigit,5100234,Private Call,On,None,None
+551,YG1AIE Heryawan,5100235,Private Call,On,None,None
+552,YD0AXD Hadi,5100236,Private Call,On,None,None
+553,YD0SNV Misar,5100237,Private Call,On,None,None
+554,YB6IVW Rudi,5100238,Private Call,On,None,None
+555,YC7XOQ Yulkhain,5100239,Private Call,On,None,None
+556,YC7HFY Fachri,5100240,Private Call,On,None,None
+557,YD4VRY Subroto,5100241,Private Call,On,None,None
+558,YD7KVL Agus,5100242,Private Call,On,None,None
+559,YD3BGY Wisnu,5100243,Private Call,On,None,None
+560,YD9WSC Hanantha,5100244,Private Call,On,None,None
+561,YD1DRC Ponco,5100245,Private Call,On,None,None
+562,YC4MSZ Rio,5100246,Private Call,On,None,None
+563,YD3GIF Adhi,5100247,Private Call,On,None,None
+564,YG4LWZ Ahmad,5100248,Private Call,On,None,None
+565,YD6HNL Mario,5100249,Private Call,On,None,None
+566,YD9CKH Jutahari,5100250,Private Call,On,None,None
+567,YD0FQW Effendy,5100251,Private Call,On,None,None
+568,YD2UFY Rizky,5100252,Private Call,On,None,None
+569,YD0SJU Ade,5100253,Private Call,On,None,None
+570,YD7LJL Ihsan,5100254,Private Call,On,None,None
+571,YD8XXF Natalio,5100255,Private Call,On,None,None
+572,YB8VK Abdul,5100256,Private Call,On,None,None
+573,YD9SOQ Vemmy,5100257,Private Call,On,None,None
+574,YC5NCB Hemi,5100258,Private Call,On,None,None
+575,YB2ECG Jon,5100259,Private Call,On,None,None
+576,YD4MHF Yandra,5100260,Private Call,On,None,None
+577,YC5NDJ Syamsul,5100261,Private Call,On,None,None
+578,YD1FEZ Asep,5100262,Private Call,On,None,None
+579,YC2OCW Gary,5100263,Private Call,On,None,None
+580,YD9BAX Wayan,5100264,Private Call,On,None,None
+581,YD6HQY Arief,5100265,Private Call,On,None,None
+582,YC4OX Tjang,5100266,Private Call,On,None,None
+583,YE4IIB Brian,5100267,Private Call,On,None,None
+584,YB4AS Tigor,5100268,Private Call,On,None,None
+585,YB3DY Yusuf,5100269,Private Call,On,None,None
+586,YD5NCH Deny,5100270,Private Call,On,None,None
+587,YB1MBA Anil,5100271,Private Call,On,None,None
+588,YD8EIT Muh,5100272,Private Call,On,None,None
+589,YC3BUP Nico,5100273,Private Call,On,None,None
+590,YG3FWC Jimad,5100274,Private Call,On,None,None
+591,YB7MP Agus,5100275,Private Call,On,None,None
+592,YC1MTT Tomi,5100276,Private Call,On,None,None
+593,YB6SC Sicai,5100277,Private Call,On,None,None
+594,YG6HBC Jhon,5100278,Private Call,On,None,None
+595,YC0TGA Toga,5100279,Private Call,On,None,None
+596,YD7IRS Ruslan,5100280,Private Call,On,None,None
+597,YD0SVI Robby,5100281,Private Call,On,None,None
+598,YC4PHG Hendra,5100282,Private Call,On,None,None
+599,YB6LBH Haji,5100283,Private Call,On,None,None
+600,YB2BSE Endang,5100284,Private Call,On,None,None
+601,YD0EXO Eko,5100285,Private Call,On,None,None
+602,YB0DOS Sumantri,5100286,Private Call,On,None,None
+603,YG1FTJ Anggoro,5100287,Private Call,On,None,None
+604,YC2WUJ Januar,5100288,Private Call,On,None,None
+605,YD8ACD Riski,5100289,Private Call,On,None,None
+606,YD5NGX Leo,5100290,Private Call,On,None,None
+607,YD0AKA Bambang,5100291,Private Call,On,None,None
+608,YC7HPH Mustamia,5100292,Private Call,On,None,None
+609,YF7SAC Kiky,5100293,Private Call,On,None,None
+610,YC0AQN Alifian,5100294,Private Call,On,None,None
+611,YC3SLY Asli Sam,5100295,Private Call,On,None,None
+612,YD8MUZ Ismail,5100296,Private Call,On,None,None
+613,YD5NIO Abubakar,5100297,Private Call,On,None,None
+614,YD5NGB Dedi,5100298,Private Call,On,None,None
+615,YD5NFY Aminuddi,5100299,Private Call,On,None,None
+616,YD5NJO Jul,5100300,Private Call,On,None,None
+617,YD5NKH Lutfi,5100301,Private Call,On,None,None
+618,YD5NIG Ragil,5100302,Private Call,On,None,None
+619,YD5NIZ Dodi,5100303,Private Call,On,None,None
+620,YD0BCS Danny,5100304,Private Call,On,None,None
+621,YD0BCX Hari,5100305,Private Call,On,None,None
+622,YD5NGF Sumriadi,5100306,Private Call,On,None,None
+623,YD5NDK Bayu,5100307,Private Call,On,None,None
+624,YD0JRU Hangga,5100308,Private Call,On,None,None
+625,YD5NCU Bambang,5100309,Private Call,On,None,None
+626,YD5NKP Marojaha,5100310,Private Call,On,None,None
+627,YC6HRI Freddybe,5100311,Private Call,On,None,None
+628,YB3RDW Redy,5100312,Private Call,On,None,None
+629,YB1RQX Rully,5100313,Private Call,On,None,None
+630,YD6VXO Gimin,5100314,Private Call,On,None,None
+631,YB3VO Soebandi,5100315,Private Call,On,None,None
+632,YD0AXL Nophy,5100316,Private Call,On,None,None
+633,YD3BRE Siwi,5100317,Private Call,On,None,None
+634,YB2WKC Eko,5100318,Private Call,On,None,None
+635,YB8VMI Hermits,5100319,Private Call,On,None,None
+636,YD0BDG Amirul,5100320,Private Call,On,None,None
+637,YD5NDC Suwardi,5100321,Private Call,On,None,None
+638,YG4FJB Wahyudi,5100322,Private Call,On,None,None
+639,YC8MMH Afrianto,5100323,Private Call,On,None,None
+640,YC6HPE Rubianto,5100324,Private Call,On,None,None
+641,YD2WYW Vidnayad,5100325,Private Call,On,None,None
+642,YG1APG Asep,5100326,Private Call,On,None,None
+643,YD6ACW Muh,5100327,Private Call,On,None,None
+644,YF0GHN Arief,5100328,Private Call,On,None,None
+645,YD5NIK Erhas,5100329,Private Call,On,None,None
+646,YD5NGC Oyong,5100330,Private Call,On,None,None
+647,YD0AVB Bayu,5100331,Private Call,On,None,None
+648,YD1RUH Ramadhan,5100332,Private Call,On,None,None
+649,YD1EGR Yusup,5100333,Private Call,On,None,None
+650,YD1BUH Budi,5100334,Private Call,On,None,None
+651,YC3BZF Ibnu,5100335,Private Call,On,None,None
+652,YB0KS Kiskenda,5100336,Private Call,On,None,None
+653,YG8ADI Ilman,5100337,Private Call,On,None,None
+654,YD6DR Dedy,5100338,Private Call,On,None,None
+655,YD3JOO Johan,5100339,Private Call,On,None,None
+656,YB6HAI Anda,5100340,Private Call,On,None,None
+657,YB2RT Liliek,5100341,Private Call,On,None,None
+658,YC6ROY Eddy,5100343,Private Call,On,None,None
+659,YD6DPO Wahid,5100344,Private Call,On,None,None
+660,YC6DBZ Badruzza,5100345,Private Call,On,None,None
+661,YD6AAX Chairil,5100346,Private Call,On,None,None
+662,YC2AUP Nukalix,5100347,Private Call,On,None,None
+663,YD5ARK Teddy,5100348,Private Call,On,None,None
+664,YC8UMD Devies,5100349,Private Call,On,None,None
+665,YG3ESY Dinne,5100350,Private Call,On,None,None
+666,YB7TZX Suraji,5100351,Private Call,On,None,None
+667,YD0BDK Matropi,5100352,Private Call,On,None,None
+668,YB1RUS Rusdy,5100353,Private Call,On,None,None
+669,YD1CAI Susilo,5100354,Private Call,On,None,None
+670,YB1VHC Rudi,5100355,Private Call,On,None,None
+671,YD8RPK Roland,5100356,Private Call,On,None,None
+672,YC0RPY Praseno,5100357,Private Call,On,None,None
+673,YG1ANH Iqbal,5100358,Private Call,On,None,None
+674,YC8FXI Endi,5100359,Private Call,On,None,None
+675,YB2RPO Panca,5100360,Private Call,On,None,None
+676,YC1OHE Hersupar,5100361,Private Call,On,None,None
+677,YD6HRD Karwan,5100362,Private Call,On,None,None
+678,YC0JOY David,5100363,Private Call,On,None,None
+679,YD8SAK Beverly,5100364,Private Call,On,None,None
+680,YD0APM Ricky,5100365,Private Call,On,None,None
+681,YD1ALR Sonny,5100366,Private Call,On,None,None
+682,YD6DKN Chairul,5100367,Private Call,On,None,None
+683,YC1MCD Nenda,5100368,Private Call,On,None,None
+684,YB8UYQ Hamdan,5100369,Private Call,On,None,None
+685,YC3CRE Anton,5100370,Private Call,On,None,None
+686,YB8XOB Jonny,5100371,Private Call,On,None,None
+687,YD3CEK Joni,5100372,Private Call,On,None,None
+688,YD3YGY Yohanes,5100373,Private Call,On,None,None
+689,YC3TSJ Tedjo,5100374,Private Call,On,None,None
+690,YD0AXN Agus,5100375,Private Call,On,None,None
+691,YB8SCP Victor,5100376,Private Call,On,None,None
+692,YC0NGA Fitra,5100377,Private Call,On,None,None
+693,YD6HSC Ikhsan,5100378,Private Call,On,None,None
+694,YD3AGU Eko,5100379,Private Call,On,None,None
+695,YC0ACH Satriyo,5100380,Private Call,On,None,None
+696,YC3BUS Hendro,5100381,Private Call,On,None,None
+697,YE4IJ Irfan,5100382,Private Call,On,None,None
+698,YB1SHF Hendri,5100384,Private Call,On,None,None
+699,YD3BUR Harijant,5100385,Private Call,On,None,None
+700,YB3DE Robertus,5100386,Private Call,On,None,None
+701,YD1BFG Fahlevi,5100387,Private Call,On,None,None
+702,YF9UAG Stefendy,5100388,Private Call,On,None,None
+703,YB3RVA Triatmad,5100389,Private Call,On,None,None
+704,YD0BEI Imam,5100390,Private Call,On,None,None
+705,YD0BDU Firmansy,5100391,Private Call,On,None,None
+706,YB7DNA Ahmad,5100392,Private Call,On,None,None
+707,YD0SMG Dito,5100393,Private Call,On,None,None
+708,YD1ATM Gunawan,5100394,Private Call,On,None,None
+709,YG1ARQ Okie,5100395,Private Call,On,None,None
+710,YC8BHD Shabir,5100396,Private Call,On,None,None
+711,YG1ANL Dede,5100397,Private Call,On,None,None
+712,YD0BEK Ahmad,5100398,Private Call,On,None,None
+713,YD1DBS Lanang,5100399,Private Call,On,None,None
+714,YD2BUX Ilham,5100400,Private Call,On,None,None
+715,YD0BCJ Evan,5100401,Private Call,On,None,None
+716,YD0BEW Rohman,5100402,Private Call,On,None,None
+717,YD0AKD Prasetyo,5100403,Private Call,On,None,None
+718,YD3AUD Ninik,5100404,Private Call,On,None,None
+719,YD0AAY Lendra,5100405,Private Call,On,None,None
+720,YC5AVO Nofriadi,5100406,Private Call,On,None,None
+721,YD1WDL Sudarman,5100407,Private Call,On,None,None
+722,YG1AAP Hamdi,5100408,Private Call,On,None,None
+723,YD0BGR Handy,5100409,Private Call,On,None,None
+724,YD0KON Andy,5100410,Private Call,On,None,None
+725,YD0BFB Budi,5100411,Private Call,On,None,None
+726,YB7FH Fardhon,5100412,Private Call,On,None,None
+727,YE5SX Bona,5100413,Private Call,On,None,None
+728,YG5NFF Willy,5100414,Private Call,On,None,None
+729,YD1BPV Nugroho,5100415,Private Call,On,None,None
+730,YG1ARU Denny,5100416,Private Call,On,None,None
+731,YD1ASJ Bambang,5100417,Private Call,On,None,None
+732,YG2AQG Wiedha,5100418,Private Call,On,None,None
+733,YG5NHB Riyanto,5100419,Private Call,On,None,None
+734,YG2AKH Ahmad,5100425,Private Call,On,None,None
+735,YC3BXK Ignatius,5100428,Private Call,On,None,None
+736,YB1HBO Tanto,5100430,Private Call,On,None,None
+737,YD0NTX Niti,5100431,Private Call,On,None,None
+738,YB6MIX Djohan,5100432,Private Call,On,None,None
+739,YC1IDB Damini,5100433,Private Call,On,None,None
+740,YD5NMN Himanto,5100434,Private Call,On,None,None
+741,YE5YUD Yudhi,5100435,Private Call,On,None,None
+742,YF1AIX Dwianto,5100436,Private Call,On,None,None
+743,YF5TOF Sapri,5100437,Private Call,On,None,None
+744,YG1AZZ Teuku,5100438,Private Call,On,None,None
+745,YC0AWG Jhon Ma,5100439,Private Call,On,None,None
+746,YE5OK Sukamto,5100440,Private Call,On,None,None
+747,YD3FEF Herman,5100441,Private Call,On,None,None
+748,YC8RPK Roland,5100442,Private Call,On,None,None
+749,YG1ARX Ahmad,5100443,Private Call,On,None,None
+750,YG1AWU Gilang,5100445,Private Call,On,None,None
+751,YC1AUI Milak,5100446,Private Call,On,None,None
+752,YD0RFN Frans,5100447,Private Call,On,None,None
+753,YD1EXT Indra,5100448,Private Call,On,None,None
+754,YD4LLNR Insan,5100449,Private Call,On,None,None
+755,YD9VME Argo,5100450,Private Call,On,None,None
+756,YD3BVS Stevano,5100451,Private Call,On,None,None
+757,YD8IKU Amiruddi,5100452,Private Call,On,None,None
+758,YD0AKC Yanwedya,5100453,Private Call,On,None,None
+759,YB0FNE Baskoro,5100454,Private Call,On,None,None
+760,YG8AEJ Ryan,5100455,Private Call,On,None,None
+761,YD6AEQ Eddy,5100456,Private Call,On,None,None
+762,YC2CQO Joni,5100457,Private Call,On,None,None
+763,YG1BBB Clarence,5100458,Private Call,On,None,None
+764,YD3TMF Subur,5100459,Private Call,On,None,None
+765,YC9ABD Bagus,5100460,Private Call,On,None,None
+766,YD3CCG Hari,5100461,Private Call,On,None,None
+767,YD6HRM Supriadi,5100462,Private Call,On,None,None
+768,YD3GFS Ambang,5100463,Private Call,On,None,None
+769,YD4SNO Ediyanto,5100464,Private Call,On,None,None
+770,YC3LVE Widihars,5100465,Private Call,On,None,None
+771,YD2BUE Mulyanto,5100467,Private Call,On,None,None
+772,YB6JMM Aswin,5100468,Private Call,On,None,None
+773,YD1RWH Tri,5100469,Private Call,On,None,None
+774,YD9HQY Ahmad,5100470,Private Call,On,None,None
+775,YD9HKW Suharto,5100471,Private Call,On,None,None
+776,YG1AUQ Ernan,5100472,Private Call,On,None,None
+777,YD5NIV Usman,5100473,Private Call,On,None,None
+778,YD5NFZ Susiyant,5100474,Private Call,On,None,None
+779,YD6AER Syaiful,5100475,Private Call,On,None,None
+780,YB2HKB Triyono,5100476,Private Call,On,None,None
+781,YC5NHD Hamidi,5100477,Private Call,On,None,None
+782,YD6HQC Andika,5100478,Private Call,On,None,None
+783,YD6HQB Ari Abdi,5100479,Private Call,On,None,None
+784,YD9GAC Edy,5100480,Private Call,On,None,None
+785,YD6HTK Darwin,5100481,Private Call,On,None,None
+786,YB3JF Djoko,5100482,Private Call,On,None,None
+787,YB3BIY Agus,5100483,Private Call,On,None,None
+788,YB2TDP Totok,5100484,Private Call,On,None,None
+789,YE1AAH Agung,5100485,Private Call,On,None,None
+790,YD2UCZ Wisnu,5100486,Private Call,On,None,None
+791,YD0AVF Abdul,5100487,Private Call,On,None,None
+792,YC3MVA Ali,5100488,Private Call,On,None,None
+793,YG0THE Arintoko,5100489,Private Call,On,None,None
+794,YD1FYL Atin,5100490,Private Call,On,None,None
+795,YC3BUE Sugiarto,5100491,Private Call,On,None,None
+796,YB1TS Benyamin,5100492,Private Call,On,None,None
+797,YC3NED Agung,5100493,Private Call,On,None,None
+798,YC3TIL Agus,5100494,Private Call,On,None,None
+799,YD9HSY Saidi,5100495,Private Call,On,None,None
+800,YD9HSX Taufiq,5100496,Private Call,On,None,None
+801,YD0AVP Djoni,5100497,Private Call,On,None,None
+802,YD0ABI Arrizqie,5100498,Private Call,On,None,None
+803,YC0AUI Haris,5100499,Private Call,On,None,None
+804,YB3FTD Djarot,5100500,Private Call,On,None,None
+805,YD1RZX Wisnu,5100501,Private Call,On,None,None
+806,YB7CN Ceparudi,5100502,Private Call,On,None,None
+807,YF5WQN Hadi,5100503,Private Call,On,None,None
+808,YD0BAG Sudrajat,5100504,Private Call,On,None,None
+809,YB3TE Tedjo,5100505,Private Call,On,None,None
+810,YC6POC Darul,5100506,Private Call,On,None,None
+811,YD0RDD Ady,5100507,Private Call,On,None,None
+812,YC1BCH Roesdi,5100508,Private Call,On,None,None
+813,YD1AJE Susila,5100509,Private Call,On,None,None
+814,YC8VHW Hengkie,5100511,Private Call,On,None,None
+815,YD1BEK Ludovic,5100513,Private Call,On,None,None
+816,YD9RRR Sukateli,5100514,Private Call,On,None,None
+817,YC0AOM Rusdi,5100515,Private Call,On,None,None
+818,YB3FAN Ivan,5100516,Private Call,On,None,None
+819,YD6HMI Eko,5100517,Private Call,On,None,None
+820,YD6HRZ Rudi,5100518,Private Call,On,None,None
+821,YC1YP Juniarso,5100519,Private Call,On,None,None
+822,YC6JMJ Jumiran,5100520,Private Call,On,None,None
+823,YD6HSH Achmad,5100521,Private Call,On,None,None
+824,YC6OEO Ferny,5100522,Private Call,On,None,None
+825,YH0AF Jakbar,5100523,Private Call,On,None,None
+826,YD8AKM Akram,5100524,Private Call,On,None,None
+827,YF8XRT Roland,5100525,Private Call,On,None,None
+828,YD0OEM Richard,5100526,Private Call,On,None,None
+829,YD2BLD Anton,5100527,Private Call,On,None,None
+830,YD6HQL Amal,5100528,Private Call,On,None,None
+831,YD6HRO Batara,5100529,Private Call,On,None,None
+832,YD6HPR Arifuddi,5100530,Private Call,On,None,None
+833,YF5TLS Ganda,5100531,Private Call,On,None,None
+834,YD1DIQ Basuki,5100532,Private Call,On,None,None
+835,YB8RSE Franky,5100533,Private Call,On,None,None
+836,YD8NLL Samriyan,5100534,Private Call,On,None,None
+837,YB8OUN Syafyudd,5100535,Private Call,On,None,None
+838,YG3CMS Ferry,5100536,Private Call,On,None,None
+839,YD3BVI Petrus,5100537,Private Call,On,None,None
+840,YB3BSK Bambang,5100538,Private Call,On,None,None
+841,YD3BRS Leo,5100539,Private Call,On,None,None
+842,YC3CNV Anang,5100540,Private Call,On,None,None
+843,YC6PPW Abel,5100541,Private Call,On,None,None
+844,YC3JHL Ferry,5100542,Private Call,On,None,None
+845,YD1IGJ Sigit,5100543,Private Call,On,None,None
+846,YC2OLH Hidayat,5100544,Private Call,On,None,None
+847,YE2YE Irawan,5100545,Private Call,On,None,None
+848,YD1KDL Nurashila,5100546,Private Call,On,None,None
+849,YD1ECD Nitya,5100547,Private Call,On,None,None
+850,YC0NLL Tekad,5100548,Private Call,On,None,None
+851,YD6HSV David,5100549,Private Call,On,None,None
+852,YD7ADL Akhmad,5100550,Private Call,On,None,None
+853,YG1BBQ Cucu,5100551,Private Call,On,None,None
+854,YD0YNV Mintardj,5100552,Private Call,On,None,None
+855,YD5ASJ Bayu,5100553,Private Call,On,None,None
+856,YF5TLW Hartono,5100554,Private Call,On,None,None
+857,YC2CLH Suharman,5100555,Private Call,On,None,None
+858,YD0BJM Sugi,5100556,Private Call,On,None,None
+859,YC2PAB Jumaroh,5100557,Private Call,On,None,None
+860,YD5NIH Ahmad,5100558,Private Call,On,None,None
+861,YD1FWM Eka,5100559,Private Call,On,None,None
+862,YB1GRZ Wahyu,5100560,Private Call,On,None,None
+863,YC2NNL Pangat,5100561,Private Call,On,None,None
+864,YC2JIS Saiful,5100562,Private Call,On,None,None
+865,YD1EOC Toto,5100563,Private Call,On,None,None
+866,YE3CLS Mujianto,5100564,Private Call,On,None,None
+867,YD2RGF Achmad,5100565,Private Call,On,None,None
+868,YD2IFA Arifah,5100566,Private Call,On,None,None
+869,YD3BHZ Wiyana,5100567,Private Call,On,None,None
+870,YD2KFP Dwi,5100568,Private Call,On,None,None
+871,YD2JEH Puji,5100569,Private Call,On,None,None
+872,YC2CAY Nanang,5100570,Private Call,On,None,None
+873,YC2OTJ Hadiyant,5100571,Private Call,On,None,None
+874,YD2BWS Dany,5100572,Private Call,On,None,None
+875,YC2NDH Wawan,5100573,Private Call,On,None,None
+876,YD2IEB Toto,5100574,Private Call,On,None,None
+877,YD2IEP Kudono,5100575,Private Call,On,None,None
+878,YD2IDC Iwan,5100576,Private Call,On,None,None
+879,YG2AOB Artiyo,5100577,Private Call,On,None,None
+880,YC2KOK Soeharso,5100578,Private Call,On,None,None
+881,YC2EOA Edy,5100579,Private Call,On,None,None
+882,YD2BWQ Mimbar,5100580,Private Call,On,None,None
+883,YG2UHE Danang,5100581,Private Call,On,None,None
+884,YG5NEA Asido,5100582,Private Call,On,None,None
+885,YD1EJC Akhmad,5100583,Private Call,On,None,None
+886,YC1TAS Dodi,5100584,Private Call,On,None,None
+887,YD2CVL Rikhun,5100585,Private Call,On,None,None
+888,YD2EXW Wamad,5100586,Private Call,On,None,None
+889,YB2BQU Dardiri,5100587,Private Call,On,None,None
+890,YG2EDY Edy,5100588,Private Call,On,None,None
+891,YF2BFA Kisno,5100589,Private Call,On,None,None
+892,YD1REA Denny,5100590,Private Call,On,None,None
+893,YC2EPY Muchlis,5100591,Private Call,On,None,None
+894,YC6KTR Khairudd,5100592,Private Call,On,None,None
+895,YC1BXU Totong,5100593,Private Call,On,None,None
+896,YC2WNR Wisnu,5100594,Private Call,On,None,None
+897,YG3FWA Philipus,5100595,Private Call,On,None,None
+898,YG2ASQ Nurwanto,5100596,Private Call,On,None,None
+899,YF0RIK Rikie,5100597,Private Call,On,None,None
+900,YG1AWC Doddy,5100598,Private Call,On,None,None
+901,YB3RZ Indarto,5100599,Private Call,On,None,None
+902,YH3BL Surabaya,5100600,Private Call,On,None,None
+903,YB3KM Thomas,5100601,Private Call,On,None,None
+904,YD2GYO Bagiyo,5100602,Private Call,On,None,None
+905,YC2BXR Djoko,5100603,Private Call,On,None,None
+906,YD2ICS Purwanto,5100604,Private Call,On,None,None
+907,YC3YLT Yulianto,5100605,Private Call,On,None,None
+908,YB2FRI Febriant,5100607,Private Call,On,None,None
+909,YG3CTD Henri,5100608,Private Call,On,None,None
+910,YG2IIN Solihin,5100609,Private Call,On,None,None
+911,YC2GSU Soni,5100610,Private Call,On,None,None
+912,YB2FHI Zulkarna,5100611,Private Call,On,None,None
+913,YF5OZ Mulia,5100612,Private Call,On,None,None
+914,YG2CPR Agus,5100613,Private Call,On,None,None
+915,YF5TMJ Firdaus,5100615,Private Call,On,None,None
+916,YG2ABY Edhie,5100616,Private Call,On,None,None
+917,YD2CLA Setyo,5100617,Private Call,On,None,None
+918,YC4AAB Ridho,5100618,Private Call,On,None,None
+919,YG3AFK Edward,5100619,Private Call,On,None,None
+920,YD0BKY Ria,5100620,Private Call,On,None,None
+921,YD3CWR Aldino,5100621,Private Call,On,None,None
+922,YD6HVF Rava,5100622,Private Call,On,None,None
+923,YB5RU Rimon,5100623,Private Call,On,None,None
+924,YD2WPL Lukas,5100624,Private Call,On,None,None
+925,YC2VCA Ayyub,5100625,Private Call,On,None,None
+926,YD0BEN Budi,5100626,Private Call,On,None,None
+927,YD6HTG Fernando,5100627,Private Call,On,None,None
+928,YG1AJG Hendra,5100628,Private Call,On,None,None
+929,YD2DCE Akhmad,5100630,Private Call,On,None,None
+930,YC3VCD Yuyut,5100631,Private Call,On,None,None
+931,YD3BJQ Ubaidill,5100632,Private Call,On,None,None
+932,YD0AVD Agustinu,5100633,Private Call,On,None,None
+933,YD2CPS Aufa,5100634,Private Call,On,None,None
+934,YF5WCO Ismail,5100635,Private Call,On,None,None
+935,YD1FDD Wawan,5100636,Private Call,On,None,None
+936,YD3RUS Rusdy,5100637,Private Call,On,None,None
+937,YD2AQL Fiki,5100638,Private Call,On,None,None
+938,YD2DAF Arip,5100639,Private Call,On,None,None
+939,YC2BDQ Achmad,5100640,Private Call,On,None,None
+940,YB1LL Wirjawan,5100641,Private Call,On,None,None
+941,YG1BHK Emes,5100642,Private Call,On,None,None
+942,YC2TTG Tatang,5100644,Private Call,On,None,None
+943,YB0SCV Dedy,5100645,Private Call,On,None,None
+944,YB0FVV Johannes,5100646,Private Call,On,None,None
+945,YC3TOM David,5100647,Private Call,On,None,None
+946,YG3FWD Rokky,5100648,Private Call,On,None,None
+947,YC0OSU Aditya,5100649,Private Call,On,None,None
+948,YG2AXI Yayan,5100650,Private Call,On,None,None
+949,YD1EEP Acep,5100651,Private Call,On,None,None
+950,YD3TVV Kuswanto,5100652,Private Call,On,None,None
+951,YB0MSF Djoko,5100653,Private Call,On,None,None
+952,YB3CTK Supono,5100654,Private Call,On,None,None
+953,YD0RVQ Rahmad,5100655,Private Call,On,None,None
+954,YD4GFQ Novan,5100656,Private Call,On,None,None
+955,YD0RVS Supriyan,5100657,Private Call,On,None,None
+956,YC0UI Dewi,5100658,Private Call,On,None,None
+957,YD5NPZ Erikson,5100659,Private Call,On,None,None
+958,YC2BAH Bambang,5100660,Private Call,On,None,None
+959,YC5NAU Zanan,5100661,Private Call,On,None,None
+960,YD7UUV Teguh,5100662,Private Call,On,None,None
+961,YB8MAN Badrin,5100663,Private Call,On,None,None
+962,YD1CFD Freddy,5100664,Private Call,On,None,None
+963,YD8EHF Khaerudd,5100665,Private Call,On,None,None
+964,YG1BJJ Mariyant,5100666,Private Call,On,None,None
+965,YD0ATA Eko,5100667,Private Call,On,None,None
+966,YC2OLI Eddy,5100668,Private Call,On,None,None
+967,YD6HGD Agam,5100669,Private Call,On,None,None
+968,YG8RIA Edi,5100670,Private Call,On,None,None
+969,YD9ATU Agung,5100671,Private Call,On,None,None
+970,YD2VJI Tisa,5100672,Private Call,On,None,None
+971,YD5YDM Setyo,5100673,Private Call,On,None,None
+972,YG2BBE Jarot,5100674,Private Call,On,None,None
+973,YD2RBS Wahudi,5100675,Private Call,On,None,None
+974,YG1BKK Ricky,5100676,Private Call,On,None,None
+975,YC2CPQ Indra,5100677,Private Call,On,None,None
+976,YC1JGE Husni,5100678,Private Call,On,None,None
+977,YC2SSY Ign,5100679,Private Call,On,None,None
+978,YG2BCM Almer,5100680,Private Call,On,None,None
+979,YG1BKC Dede,5100681,Private Call,On,None,None
+980,YD9HWH Eva,5100682,Private Call,On,None,None
+981,YD2UTC Zandy,5100683,Private Call,On,None,None
+982,YB3BXF Syamsul,5100684,Private Call,On,None,None
+983,YC2CLQ Basuki,5100685,Private Call,On,None,None
+984,YD9CVS Tutwidi,5100686,Private Call,On,None,None
+985,YB0NSI Tarunodj,5100687,Private Call,On,None,None
+986,YC2GAN Wakhid,5100688,Private Call,On,None,None
+987,YB1ALT Usep,5100690,Private Call,On,None,None
+988,YF1ANL Dede,5100691,Private Call,On,None,None
+989,YD2JTP Sigit,5100692,Private Call,On,None,None
+990,YD0BBJ Ali,5100693,Private Call,On,None,None
+991,YC2SRM Rahmat,5100694,Private Call,On,None,None
+992,YC0LMS Oey,5100695,Private Call,On,None,None
+993,YB2SOV Sofiyan,5100696,Private Call,On,None,None
+994,YD1CDK Arif,5100697,Private Call,On,None,None
+995,YD2VJP Eko,5100698,Private Call,On,None,None
+996,YB1BBD Agung,5100699,Private Call,On,None,None
+997,YG3ALC Djody,5100700,Private Call,On,None,None
+998,YC2OWI Saripan,5100701,Private Call,On,None,None
+999,YD2DBV Sujinto,5100702,Private Call,On,None,None
+1000,YC2GGW Abi,5100703,Private Call,On,None,None
+1001,YB7CCP Cece,5100704,Private Call,On,None,None
+1002,YC1CWO Sumia,5100705,Private Call,On,None,None
+1003,YG1BDE Ali,5100706,Private Call,On,None,None
+1004,YG2ANG Akhmad,5100707,Private Call,On,None,None
+1005,YD2RJI Joko,5100708,Private Call,On,None,None
+1006,YC8VAJ Josias,5100709,Private Call,On,None,None
+1007,YG2AWN Djuprija,5100710,Private Call,On,None,None
+1008,YG3ACN Husin,5100711,Private Call,On,None,None
+1009,YB3GU Irwanto,5100712,Private Call,On,None,None
+1010,YG3APH Herry,5100713,Private Call,On,None,None
+1011,YD6HDK Yustinus,5100714,Private Call,On,None,None
+1012,YG3ANX Suryo,5100715,Private Call,On,None,None
+1013,YD5NOS Rio,5100716,Private Call,On,None,None
+1014,YH1AVB Bandung,5100717,Private Call,On,None,None
+1015,YG3AJE Ahmad,5100718,Private Call,On,None,None
+1016,YG3AQK Djoko,5100719,Private Call,On,None,None
+1017,YD3CII Betantyo,5100720,Private Call,On,None,None
+1018,YG5NCQ Agustian,5100721,Private Call,On,None,None
+1019,YH1AL ORARI,5100723,Private Call,On,None,None
+1020,YH7HC Kotabaru,5100725,Private Call,On,None,None
+1021,YH6HA Orda Sumut,5100726,Private Call,On,None,None
+1022,YH2AE Banjarnegara,5100728,Private Call,On,None,None
+1023,YB8EIP Sulwan,5100729,Private Call,On,None,None
+1024,YG3ART Mufti,5100730,Private Call,On,None,None
+1025,YD1ESZ Imam,5100733,Private Call,On,None,None
+1026,YD6HMC Ekki,5100734,Private Call,On,None,None
+1027,YD0BJJ Andre,5100735,Private Call,On,None,None
+1028,YD2RES Elfi,5100736,Private Call,On,None,None
+1029,YD1SMY Herry,5100737,Private Call,On,None,None
+1030,YD6HRV William,5100738,Private Call,On,None,None
+1031,YD0LLN Syachria,5100739,Private Call,On,None,None
+1032,YB8TB Bambang,5100740,Private Call,On,None,None
+1033,YC3IRM Matius,5100741,Private Call,On,None,None
+1034,YD1BIS Ernas,5100742,Private Call,On,None,None
+1035,YD4FLY Erwin,5100743,Private Call,On,None,None
+1036,YG3FLP Steffanu,5100744,Private Call,On,None,None
+1037,YG2AKD Solikin,5100745,Private Call,On,None,None
+1038,YD3CZV Reonaldo,5100746,Private Call,On,None,None
+1039,YD2VKB Starky,5100747,Private Call,On,None,None
+1040,YB4BM Maswardi,5100748,Private Call,On,None,None
+1041,YB4ECU Ansyori,5100749,Private Call,On,None,None
+1042,YC4AJB Bambang,5100750,Private Call,On,None,None
+1043,YC4DYR Indra,5100751,Private Call,On,None,None
+1044,YG3AIW Danu,5100752,Private Call,On,None,None
+1045,YD2CLX Havid,5100754,Private Call,On,None,None
+1046,YC3VRO Theresia,5100755,Private Call,On,None,None
+1047,YB4BDU Iriandi,5100756,Private Call,On,None,None
+1048,YC4AHH Taufik,5100757,Private Call,On,None,None
+1049,YG3AWK Ony,5100758,Private Call,On,None,None
+1050,YG3AVI Haryadi,5100759,Private Call,On,None,None
+1051,YG2BFS Imam,5100760,Private Call,On,None,None
+1052,YB7XPV Haji,5100761,Private Call,On,None,None
+1053,YD3BAF Utomo,5100762,Private Call,On,None,None
+1054,YC3BVO Dede,5100763,Private Call,On,None,None
+1055,YC2FAO Faozan,5100764,Private Call,On,None,None
+1056,YC4APF Eko,5100765,Private Call,On,None,None
+1057,YG1BSH Agus,5100766,Private Call,On,None,None
+1058,YB8DNT Gafur,5100767,Private Call,On,None,None
+1059,YD3PSR Agus,5100768,Private Call,On,None,None
+1060,YG3AFD Satriya,5100769,Private Call,On,None,None
+1061,YG7NPC Sutata,5100770,Private Call,On,None,None
+1062,YD2ETN Nor,5100771,Private Call,On,None,None
+1063,YD3LEO Leonard,5100772,Private Call,On,None,None
+1064,YG3AZL Subhan,5100773,Private Call,On,None,None
+1065,YG3AZM Sarjono,5100774,Private Call,On,None,None
+1066,YD2SMH Anas,5100775,Private Call,On,None,None
+1067,YD1CQW Priya,5100776,Private Call,On,None,None
+1068,YC8VFB Frans,5100777,Private Call,On,None,None
+1069,YB2CTE Ahmad,5100778,Private Call,On,None,None
+1070,YD2NIR Misbach,5100779,Private Call,On,None,None
+1071,YB1UUU Triyono,5100780,Private Call,On,None,None
+1072,YD5NMR Hary,5100781,Private Call,On,None,None
+1073,YC5NBA Bahril,5100782,Private Call,On,None,None
+1074,YG2AYZ Wima,5100783,Private Call,On,None,None
+1075,YD2IAU Muji,5100784,Private Call,On,None,None
+1076,YG1BKB Budi,5100785,Private Call,On,None,None
+1077,YB7VAS Agus,5100787,Private Call,On,None,None
+1078,YC7NUP Urip,5100788,Private Call,On,None,None
+1079,YG3APG Bayu,5100789,Private Call,On,None,None
+1080,YD3CFC Mukhlis,5100790,Private Call,On,None,None
+1081,YD2UFV Felix,5100791,Private Call,On,None,None
+1082,YD3ATQ Jimmy,5100792,Private Call,On,None,None
+1083,YD2DMP Ahmad,5100793,Private Call,On,None,None
+1084,YD4XLH Dekky,5100794,Private Call,On,None,None
+1085,YD2PAR Sapardi,5100795,Private Call,On,None,None
+1086,YD3AUB Suharto,5100796,Private Call,On,None,None
+1087,YD3BQZ Dody,5100797,Private Call,On,None,None
+1088,YC8GSV Asri,5100798,Private Call,On,None,None
+1089,YD2BYK Hastu,5100799,Private Call,On,None,None
+1090,YB6INI Zulkarna,5100800,Private Call,On,None,None
+1091,YC0RFS Iskandar,5100801,Private Call,On,None,None
+1092,YF7NFB Taufik,5100802,Private Call,On,None,None
+1093,YC7UVU Priyanto,5100803,Private Call,On,None,None
+1094,YC2MPF Frans,5100804,Private Call,On,None,None
+1095,YC7UJQ Imam,5100805,Private Call,On,None,None
+1096,YD7HGS Rosmini,5100806,Private Call,On,None,None
+1097,YB7MYS Amad,5100807,Private Call,On,None,None
+1098,YD0AFF Yudha,5100808,Private Call,On,None,None
+1099,YD1ANA Gym,5100809,Private Call,On,None,None
+1100,YC1JNV Cucun,5100810,Private Call,On,None,None
+1101,YD2EBA Hendi,5100811,Private Call,On,None,None
+1102,YD0AFC Eko,5100812,Private Call,On,None,None
+1103,YC2LEI Nuryani,5100813,Private Call,On,None,None
+1104,YB2JVX Fx,5100814,Private Call,On,None,None
+1105,YD2IJA Wiji,5100815,Private Call,On,None,None
+1106,YD2ATI Isa,5100816,Private Call,On,None,None
+1107,YF2ARZ DjokoSoe,5100817,Private Call,On,None,None
+1108,YG2AVS Yani,5100818,Private Call,On,None,None
+1109,YB0OIL Adhianto,5100819,Private Call,On,None,None
+1110,YD6HAX Kuswandi,5100820,Private Call,On,None,None
+1111,YD0BAY Jody,5100821,Private Call,On,None,None
+1112,YH0AA Orda DKI,5100822,Private Call,On,None,None
+1113,YH0D Orari HQ,5100823,Private Call,On,None,None
+1114,YD6SVL Nurdin,5100824,Private Call,On,None,None
+1115,YD1RIA Aris R,5100825,Private Call,On,None,None
+1116,YB0AZ Wisnu,5101001,Private Call,On,None,None
+1117,YD0DIO Amadio,5101002,Private Call,On,None,None
+1118,YB0AZ Wisnu,5101003,Private Call,On,None,None
+1119,YG0DEA Andrea,5101004,Private Call,On,None,None
+1120,YC0WID Widyati,5101005,Private Call,On,None,None
+1121,YB0HD Budi,5101007,Private Call,On,None,None
+1122,YB1GJS Gjellani,5101008,Private Call,On,None,None
+1123,YB0BP Junus,5101012,Private Call,On,None,None
+1124,YB0KBJ Wira,5101015,Private Call,On,None,None
+1125,YB0BTJ Mulia,5101016,Private Call,On,None,None
+1126,YB0EUI Dhany,5101017,Private Call,On,None,None
+1127,YB0GS Ferdinan,5101018,Private Call,On,None,None
+1128,YB0COD Sutjitra,5101020,Private Call,On,None,None
+1129,YC0FJY Sudjono,5101021,Private Call,On,None,None
+1130,YC0LCC Sartono,5101022,Private Call,On,None,None
+1131,YB0GIN Ginanjar,5101025,Private Call,On,None,None
+1132,YB0EUI Dhany,5101026,Private Call,On,None,None
+1133,YB0FEX YokLesma,5101027,Private Call,On,None,None
+1134,YB0COD Sutjitra,5101028,Private Call,On,None,None
+1135,YB0ECT Prihando,5101029,Private Call,On,None,None
+1136,YB0IF Andreas,5101030,Private Call,On,None,None
+1137,YC1SQ Reginald,5101031,Private Call,On,None,None
+1138,YD0NXX Suryono,5101034,Private Call,On,None,None
+1139,YB9REU Joni,5101038,Private Call,On,None,None
+1140,YD5NPC Sutan,5108888,Private Call,On,None,None
