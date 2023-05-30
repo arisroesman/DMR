@@ -1,7 +1,8 @@
-#SETTING UPDATE DATABASE SERVER KRAP DAN DATABASE 10.28
+SETTING UPDATE DATABASE SERVER KRAP DAN DATABASE 10.28
 
-Supaya kita mendapat Database KRAP DMRID dan BM DMR yang selalu up to date pada Pi-star MMDVM, berikut ini adalah cara untuk mendapatkannya:
-Jalankan SSH pada menu [Configuration] [Expert] Login		: pi-star
+Supaya kita mendapat Database KRAP DMRID dan BM DMR yang selalu up to date pada Pi-star MMDVM, berikut ini adalah cara untuk mendapatkannya :
+Jalankan SSH pada menu [Configuration] [Expert]
+Login		: pi-star
 Password	: raspberry
 Kemudian ketik:
 •	rpi-rw
