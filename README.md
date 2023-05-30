@@ -1,10 +1,33 @@
-# DMR
-DMR, singkatan dari Digital Mobile Radio, adalah salah satu standar modulasi digital untuk radio komunikasi 2 arah. Standar DMR ini banyak digunakan oleh radio-radio untuk keperluan komersial (atau sering disebut dinas), karena menawarkan efisiensi penggunaan spektrum, sehingga bisa menguragi biaya perijinan frekuensi.
+#SETTING UPDATE DATABASE SERVER KRAP
+#DAN DATABASE 10.28
 
-Di Indonesia sendiri, DMR ini digunakan untuk komunikasi komersial/dinas di sebuah mall di Jakarta, PLN, BASARNAS, dan beberapa instansi lainnya yang masih belum bisa di identifikasikan.
-
-Di dunia amatir radio, DMR digunakan untuk komunikasi jarak jauh (DX) dengan memanfaatkan internet. Pancaran dari radio DMR, baik handheld maupun rig, diterima oleh DMR repeater atau hotspot. DMR repeater dan hotstpot ini di beberapa lokasi dihubungkan dengan master server melalui internet. Master server ini lalu akan me-relay lalu lintas suara dari repeater/hotspot yang satu ke repeater/hotspot lainnya. Dengan demikian, pancaran DMR dari satu lokasi bisa diterima di lokasi lainnya yang berjarak sangat jauh, asalkan ada hotspot atau repeater yang terhubung via internet. Terdapat 2 master server network yang digunakan di dunia amatir radio di seluruh dunia: DMR-MARC dan Brandmeister Network.
-
-Komunikasi DMR amatir radio dapat dilakukan pada alokasi Digital Voice. Beberapa alokasi diantaranya:
-    Di pita 2 meter: 144.400 – 145.780, 146.500 – 146.600, 147.500 – 147.600
-    Di pita 70 cm: 431.000 – 432.000, 432.025 – 432.100, 432.300 – 432.500
+Supaya kita mendapat Database KRAP DMRID dan BM DMR yang selalu up to date pada Pi-star MMDVM, berikut ini adalah cara untuk mendapatkannya:
+Jalankan SSH pada menu [Configuration] [Expert] Login		: pi-star
+Password	: raspberry
+Kemudian ketik:
+•	rpi-rw
+•	sudo nano /usr/local/sbin/HostFilesUpdate.sh
+(untuk memudahkan pengetikan, copy baris tulisan yang dikehendaki dari PDF ini, lalu pada kursor SSH editing klik kanan, lalu Ctrl+v di “Paste from Browser” lalu tekan enter)
+Yang Pertama, Untuk menyederhanakan Host List pada DMR Configuration dan menambah DMR Server HB_KRAP_DMR, Server HB_DMRID1 dan Server HB_DMRID2 Cari tulisan di baris yang seperti ini:
+curl --fail -o ${DMRHOSTS} -s http://www.pistar.uk/downloads/DMR_Hosts.txt tambahkan symbol pagar (#) didepannya seperti dibawah ini
+#curl --fail -o ${DMRHOSTS} -s http://www.pistar.uk/downloads/DMR_Hosts.txt tambahkan tulisan dibaris dibawah nya
+curl --fail -o ${DMRHOSTS} -s https://raw.githubusercontent.com/arisroesman/DMR/main/DMR_Hosts.txt
+akan terlihat seperti ini
+#curl --fail -o ${DMRHOSTS} -s http://www.pistar.uk/downloads/DMR_Hosts.txt
+curl --fail -o ${DMRHOSTS} -s https://raw.githubusercontent.com/arisroesman/DMR/main/DMR_Hosts.txt
+Yang kedua, memindahkan source database ke server kita yang akan selalu up-to-date
+Cari tulisan di baris yang seperti ini:
+curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat tambahkan symbol pagar (#) didepannya seperti ini
+#curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat Tambahkan tulisan berikut dibawah nya
+curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/arisroesman/DMR/main/DMRIds.dat
+Hingga akan terlihat seperti ini:
+#curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
+curl --fail -o ${DMRIDFILE} -s https://raw.githubusercontent.com/arisroesman/DMR/main/DMRIds.dat
+Jika sudah selesai dan di cek ulang, tekan ctrl-x untuk keluar, pastikan dengan mengetik “y“ untuk menyimpan file SSH nya, tekan enter untuk tetap menggunakan nama file yang sama.
+Lalu jalankan:
+sudo pistar-update
+atau
+sudo HostFilesUpdate.sh
+Tunggu proses update hingga dipastikan selesai (tanda sudah selesai proses layar kembali ke tampilan seperti awal login)
+Klik menu [Configuration] dan konfirmasi meninggalkan pengeditan ssh.
+Proses ini cukup sekali saja, untuk selanjutnya kita bisa memilih server HB_KRAP_DMR atau BM Server langsung tanpa harus berulang-ulang merubah lagi SSH lagi.
