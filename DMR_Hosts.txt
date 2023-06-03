@@ -3,7 +3,7 @@
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
 #	Origional idea from Adrian Craig (M0GLJ), Editted by YD1RIA/JZ30BPH
 #
-#	Updated 12-May-2023
+#	Updated 03-June-2023
 #
 #	The format of this file is the name of the reflector followed by its
 #	IP address / Hotname / Password. NO SPACES!!
@@ -36,8 +36,11 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-KRAP_AMATIR_LKT			0000	101.50.0.209				langkat1	62031
-KRAP_DMR			0000	103.174.114.231				passw0rd	62030
-KRAP_DMR_II			0000	103.187.147.208				passw0rd	62030
-K2PI_PLWAN			0000	156.67.217.55				plw510		62030
+HB_KRAP_DMR			0000	103.174.114.231				passw0rd	62030
+HB_KRAP_DMRID1			0000	103.187.147.208				passw0rd	62030
+HB_LANGKAT			0000	101.50.0.209				langkat1	62031
+HB_KOPERASI			0000	103.175.218.10				g@skeun		62030
+HB_ID_K2PI_INDONESIA		0000	156.67.217.55				passw0rd	62031
+HB_ID_K2PI_DMRID		0000	156.67.217.55				passw0rd	62041
+HB_ID_K2PI_WORLD		0000	156.67.217.55				passw0rd	62037
 ######################################################################################################
