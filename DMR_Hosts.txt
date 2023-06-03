@@ -38,10 +38,10 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 HB_KRAP_DMR			0000	103.174.114.231				passw0rd	62030
 HB_KRAP_DMRID1			0000	103.187.147.208				passw0rd	62030
-HB_LANGKAT			0000	101.50.0.209				langkat1	62031
-HB_KOPERASI			0000	103.175.218.10				g@skeun		62030
-HB_ID_K2PI_INDONESIA		0000	156.67.217.55				passw0rd	62031
-HB_ID_K2PI_DMRID		0000	156.67.217.55				passw0rd	62041
-HB_ID_K2PI_WORLD		0000	156.67.217.55				passw0rd	62037
-HB_ID_K2PI_EXPERIMENT		0000	156.67.217.55				k2piexp		62040
+HB_KRAP_LANGKAT			0000	101.50.0.209				langkat1	62031
+HB_KRAP_KOPERASI		0000	103.175.218.10				g@skeun		62030
+HB_K2PI_INDO			0000	156.67.217.55				passw0rd	62031
+HB_K2PI_DMRID			0000	156.67.217.55				passw0rd	62041
+HB_K2PI_WORLD			0000	156.67.217.55				passw0rd	62037
+HB_K2PI_EXPERIMENT		0000	156.67.217.55				k2piexp		62040
 ######################################################################################################
