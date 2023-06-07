@@ -12,7 +12,9 @@ sudo nano /usr/local/sbin/HostFilesUpdate.sh
 
 (untuk memudahkan, copy baris tulisan yang dikehendaki dari README ini, lalu pada kursor SSH editing klik kanan, lalu Ctrl+v di “Paste from Browser” lalu tekan enter)
 
-Yang Pertama, Untuk menyederhanakan Host List pada DMR Configuration dan menambah DMR Server HB_KRAP_DMR, Server HB_DMRID1 dan Server HB_DMRID2 Cari tulisan di baris yang seperti ini:
+Yang Pertama, Untuk menyederhanakan Host List pada DMR Configuration dan menambah DMR Server HB_KRAP_DMR, Server HB_DMRID1 dan Server HB_DMRID2
+
+Cari tulisan di baris yang seperti ini:
 curl --fail -o ${DMRHOSTS} -s http://www.pistar.uk/downloads/DMR_Hosts.txt
 
 Tambahkan symbol pagar (#) didepannya seperti dibawah ini
@@ -26,6 +28,7 @@ Akan terlihat seperti ini
 curl --fail -o ${DMRHOSTS} -s https://raw.githubusercontent.com/arisroesman/DMR/main/DMR_Hosts.txt
 
 Yang kedua, memindahkan source database ke server kita yang akan selalu up-to-date
+
 Cari tulisan di baris yang seperti ini:
 
 curl --fail -o ${DMRIDFILE} -s http://www.pistar.uk/downloads/DMRIds.dat
