@@ -39,7 +39,7 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 HB_KRAP_DMR			0000	103.174.114.231				passw0rd	62030
 HB_K2PI_DMRID			0000	dmrid.org				passw0rd	62030
 HB_KRAP_BACKUP			0000	103.187.147.208				passw0rd	62030
-#HB_KRAP_LANGKAT			0000	101.50.0.209				langkat1	62031
+#HB_KRAP_LANGKAT		0000	101.50.0.209				langkat1	62031
 #HB_KRAP_KOPERASI		0000	103.175.218.10				g@skeun		62030
 #HB_K2PI_INDO			0000	156.67.217.55				passw0rd	62031
 ######################################################################################################
