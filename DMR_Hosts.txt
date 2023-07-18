@@ -41,5 +41,5 @@ DMRID.ORG			0000	156.67.217.55				passw0rd	62030
 BRANDMEISTER		0000	5021.master.brandmeister.network	Rembol123	62031
 KRAPDMR_BACKUP		0000	103.187.147.208				passw0rd	62030
 KRAPDMR_KOPERASI		0000	103.175.218.10				g@skeun		62030
-K2PI_INDO			0000	156.67.217.55				passw0rd	62031
+#K2PI_INDO			0000	156.67.217.55				passw0rd	62031
 ######################################################################################################
