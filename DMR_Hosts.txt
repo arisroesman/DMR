@@ -36,10 +36,10 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 # Name				DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
-HB_KRAPDMR.NET			0000	103.174.114.231				passw0rd	62030
-HB_DMRID.ORG			0000	156.67.217.55				passw0rd	62030
-HB_KRAPDMR_BACKUP		0000	103.187.147.208				passw0rd	62030
-HB_KRAPDMR_KOPERASI		0000	103.175.218.10				g@skeun		62030
-HB_K2PI_INDO			0000	156.67.217.55				passw0rd	62031
-#HB_BRANDMEISTER		0000	5021.master.brandmeister.network	Rembol123	62031
+KRAPDMR.NET			0000	103.174.114.231				passw0rd	62030
+DMRID.ORG			0000	156.67.217.55				passw0rd	62030
+BRANDMEISTER		0000	5021.master.brandmeister.network	Rembol123	62031
+KRAPDMR_BACKUP		0000	103.187.147.208				passw0rd	62030
+KRAPDMR_KOPERASI		0000	103.175.218.10				g@skeun		62030
+K2PI_INDO			0000	156.67.217.55				passw0rd	62031
 ######################################################################################################
